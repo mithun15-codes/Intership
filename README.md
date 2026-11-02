@@ -4,7 +4,7 @@
 **Academic Programme:** B.Tech Computer Science (Fourth Year), St. Thomas College of Engineering and Technology, Kozhuvalloor, Chengannur  
 **Organisation:** Quadance Technologies  
 **Mentors:** Mr. Arjun Pradeep Kumar & Mr. Frederick Lenin D  
-**GitHub Repository:** [mithun15-codes/mini_instagram](https://github.com/mithun15-codes/mini_instagram)
+**GitHub Repository:** [mithun15-codes/Intership](https://github.com/mithun15-codes/Intership)
 
 ---
 
@@ -21,7 +21,7 @@ This repository consolidates the three primary engineering workstreams completed
 ## Repository Structure
 
 ```text
-d:\Internship\Tasks\
+Intership/
 ├── Text-to-JSON Data Pipeline with Excel Export/
 │   ├── main.py                  # Pipeline entry point (load, analyze, export)
 │   ├── student_details.txt      # Input text file with Python/JSON list assignment
@@ -209,6 +209,3 @@ alembic upgrade head
 uvicorn main:app --reload
 ```
 Once running, access the interactive OpenAPI documentation at `http://127.0.0.1:8000/docs`.
-
-#   I n t e r s h i p  
- 
