@@ -1,0 +1,4418 @@
+[
+    {
+        "page": 4,
+        "text": "¢",
+        "x": 99,
+        "y": 90,
+        "width": 3,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "already",
+        "x": 108,
+        "y": 87,
+        "width": 33,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "preparing",
+        "x": 145,
+        "y": 90,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "to",
+        "x": 194,
+        "y": 89,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "introduce",
+        "x": 207,
+        "y": 87,
+        "width": 43,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 255,
+        "y": 87,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "study",
+        "x": 273,
+        "y": 87,
+        "width": 62,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 302,
+        "y": 77,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "such",
+        "x": 316,
+        "y": 87,
+        "width": 19,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "topies",
+        "x": 340,
+        "y": 89,
+        "width": 26,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 371,
+        "y": 90,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "school",
+        "x": 384,
+        "y": 87,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "education.",
+        "x": 417,
+        "y": 87,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "In",
+        "x": 471,
+        "y": 88,
+        "width": 9,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "2019,",
+        "x": 484,
+        "y": 88,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 90,
+        "y": 101,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Association",
+        "x": 108,
+        "y": 102,
+        "width": 52,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "for",
+        "x": 165,
+        "y": 101,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 182,
+        "y": 101,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Promotion",
+        "x": 200,
+        "y": 102,
+        "width": 47,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 252,
+        "y": 101,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Artificial",
+        "x": 264,
+        "y": 101,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Intelligence",
+        "x": 309,
+        "y": 101,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "(AAAI)",
+        "x": 365,
+        "y": 102,
+        "width": 32,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 402,
+        "y": 101,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 423,
+        "y": 101,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Association",
+        "x": 441,
+        "y": 102,
+        "width": 52,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 497,
+        "y": 101,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "‘Computer",
+        "x": 89,
+        "y": 115,
+        "width": 44,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "Science",
+        "x": 136,
+        "y": 115,
+        "width": 32,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "Teachers",
+        "x": 171,
+        "y": 114,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "(CSTA)",
+        "x": 213,
+        "y": 115,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "ereated",
+        "x": 247,
+        "y": 114,
+        "width": 32,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "recommendations",
+        "x": 282,
+        "y": 114,
+        "width": 77,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "for",
+        "x": 363,
+        "y": 114,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "study",
+        "x": 378,
+        "y": 114,
+        "width": 24,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 405,
+        "y": 114,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "artificial",
+        "x": 417,
+        "y": 114,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "intelligence",
+        "x": 456,
+        "y": 114,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "i",
+        "x": 90,
+        "y": 131,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "schools",
+        "x": 101,
+        "y": 128,
+        "width": 33,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "[5]",
+        "x": 138,
+        "y": 128,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "It",
+        "x": 156,
+        "y": 129,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "emphasizes",
+        "x": 165,
+        "y": 128,
+        "width": 51,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 220,
+        "y": 128,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "reasons",
+        "x": 237,
+        "y": 131,
+        "width": 33,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "underlying",
+        "x": 274,
+        "y": 128,
+        "width": 49,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 326,
+        "y": 128,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "introduction",
+        "x": 343,
+        "y": 128,
+        "width": 56,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 402,
+        "y": 128,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "artificial",
+        "x": 414,
+        "y": 128,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "intelligence",
+        "x": 454,
+        "y": 128,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "study",
+        "x": 90,
+        "y": 141,
+        "width": 24,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 118,
+        "y": 144,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "schools.",
+        "x": 130,
+        "y": 141,
+        "width": 33,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Among",
+        "x": 171,
+        "y": 142,
+        "width": 33,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "them:",
+        "x": 208,
+        "y": 141,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 238,
+        "y": 141,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "growing",
+        "x": 255,
+        "y": 144,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "role",
+        "x": 296,
+        "y": 141,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 317,
+        "y": 141,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "intellectual",
+        "x": 330,
+        "y": 141,
+        "width": 49,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "assistants",
+        "x": 383,
+        "y": 143,
+        "width": 43,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 430,
+        "y": 141,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "autonomous",
+        "x": 450,
+        "y": 143,
+        "width": 56,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "‘mechanisms",
+        "x": 90,
+        "y": 155,
+        "width": 55,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 149,
+        "y": 158,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "society.",
+        "x": 160,
+        "y": 157,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Al",
+        "x": 197,
+        "y": 156,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "technologies",
+        "x": 211,
+        "y": 155,
+        "width": 56,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "are",
+        "x": 270,
+        "y": 158,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "supported",
+        "x": 287,
+        "y": 155,
+        "width": 45,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "by",
+        "x": 335,
+        "y": 155,
+        "width": 11,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "government",
+        "x": 349,
+        "y": 157,
+        "width": 54,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "strategies.",
+        "x": 407,
+        "y": 157,
+        "width": 42,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "Al",
+        "x": 457,
+        "y": 145,
+        "width": 9,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "causes",
+        "x": 469,
+        "y": 158,
+        "width": 37,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "a",
+        "x": 501,
+        "y": 145,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "decrease",
+        "x": 90,
+        "y": 168,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 132,
+        "y": 171,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "demand",
+        "x": 143,
+        "y": 168,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 182,
+        "y": 171,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "some",
+        "x": 194,
+        "y": 171,
+        "width": 23,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "professions",
+        "x": 220,
+        "y": 168,
+        "width": 51,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 274,
+        "y": 168,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "increase",
+        "x": 294,
+        "y": 171,
+        "width": 36,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 334,
+        "y": 171,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "others",
+        "x": 346,
+        "y": 168,
+        "width": 30,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 380,
+        "y": 168,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "need",
+        "x": 397,
+        "y": 168,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "fr",
+        "x": 421,
+        "y": 168,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "skilled",
+        "x": 437,
+        "y": 168,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "workers",
+        "x": 469,
+        "y": 168,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "knowledgeable",
+        "x": 90,
+        "y": 182,
+        "width": 65,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 158,
+        "y": 185,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "attificial",
+        "x": 179,
+        "y": 182,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "intelligence.",
+        "x": 209,
+        "y": 182,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "The",
+        "x": 265,
+        "y": 182,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "document",
+        "x": 285,
+        "y": 182,
+        "width": 43,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "defines",
+        "x": 332,
+        "y": 182,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "what",
+        "x": 366,
+        "y": 182,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "students",
+        "x": 391,
+        "y": 182,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "should",
+        "x": 431,
+        "y": 182,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "know",
+        "x": 463,
+        "y": 182,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 490,
+        "y": 182,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "do",
+        "x": 90,
+        "y": 196,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "studying",
+        "x": 104,
+        "y": 196,
+        "width": 39,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "artifical",
+        "x": 147,
+        "y": 186,
+        "width": 37,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "intelligence",
+        "x": 188,
+        "y": 186,
+        "width": 50,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "throughout",
+        "x": 243,
+        "y": 196,
+        "width": 51,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "thei",
+        "x": 298,
+        "y": 196,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "education",
+        "x": 322,
+        "y": 196,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "from",
+        "x": 370,
+        "y": 196,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "primary",
+        "x": 394,
+        "y": 199,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "school",
+        "x": 434,
+        "y": 196,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "to",
+        "x": 467,
+        "y": 198,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "senior",
+        "x": 478,
+        "y": 199,
+        "width": 28,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "age,",
+        "x": 90,
+        "y": 212,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Researchers",
+        "x": 110,
+        "y": 209,
+        "width": 52,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "have",
+        "x": 166,
+        "y": 209,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "also",
+        "x": 189,
+        "y": 209,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "developed",
+        "x": 209,
+        "y": 209,
+        "width": 44,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "an",
+        "x": 257,
+        "y": 212,
+        "width": 10,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "online",
+        "x": 270,
+        "y": 209,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "catalog",
+        "x": 301,
+        "y": 209,
+        "width": 31,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 335,
+        "y": 209,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "resources",
+        "x": 347,
+        "y": 212,
+        "width": 41,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "that",
+        "x": 391,
+        "y": 209,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "teachers",
+        "x": 411,
+        "y": 209,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "can",
+        "x": 451,
+        "y": 212,
+        "width": 15,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "use.",
+        "x": 469,
+        "y": 212,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "The",
+        "x": 489,
+        "y": 209,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "authors",
+        "x": 90,
+        "y": 223,
+        "width": 33,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "identify",
+        "x": 127,
+        "y": 223,
+        "width": 35,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "five",
+        "x": 165,
+        "y": 223,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "problematic",
+        "x": 185,
+        "y": 223,
+        "width": 53,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "issues",
+        "x": 242,
+        "y": 226,
+        "width": 25,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "that",
+        "x": 271,
+        "y": 223,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "may",
+        "x": 292,
+        "y": 226,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "under",
+        "x": 314,
+        "y": 223,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 355,
+        "y": 223,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "study",
+        "x": 372,
+        "y": 223,
+        "width": 23,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 401,
+        "y": 212,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "artificial",
+        "x": 412,
+        "y": 223,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "intelligence",
+        "x": 453,
+        "y": 223,
+        "width": 51,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "perception",
+        "x": 90,
+        "y": 238,
+        "width": 47,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "(speech",
+        "x": 140,
+        "y": 236,
+        "width": 33,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "recognition,",
+        "x": 177,
+        "y": 238,
+        "width": 53,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "computer",
+        "x": 233,
+        "y": 238,
+        "width": 43,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "vision),",
+        "x": 279,
+        "y": 237,
+        "width": 32,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "presentation",
+        "x": 314,
+        "y": 238,
+        "width": 56,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 373,
+        "y": 236,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "reasoning",
+        "x": 392,
+        "y": 239,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "(path",
+        "x": 439,
+        "y": 236,
+        "width": 23,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "planning,",
+        "x": 465,
+        "y": 236,
+        "width": 42,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "‘web",
+        "x": 85,
+        "y": 240,
+        "width": 19,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "search,",
+        "x": 110,
+        "y": 240,
+        "width": 29,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 143,
+        "y": 240,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "strategy",
+        "x": 153,
+        "y": 250,
+        "width": 53,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 197,
+        "y": 240,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "games),",
+        "x": 210,
+        "y": 240,
+        "width": 32,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "machine",
+        "x": 248,
+        "y": 240,
+        "width": 33,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "learning",
+        "x": 285,
+        "y": 240,
+        "width": 34,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "(recognition,",
+        "x": 323,
+        "y": 240,
+        "width": 55,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "preferences,",
+        "x": 381,
+        "y": 240,
+        "width": 54,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 437,
+        "y": 250,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "translation)",
+        "x": 455,
+        "y": 250,
+        "width": 52,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "natura",
+        "x": 90,
+        "y": 263,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "interaction",
+        "x": 124,
+        "y": 263,
+        "width": 69,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "with",
+        "x": 174,
+        "y": 253,
+        "width": 17,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "intellectual",
+        "x": 196,
+        "y": 263,
+        "width": 48,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "agents",
+        "x": 247,
+        "y": 265,
+        "width": 28,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "(Alexa",
+        "x": 278,
+        "y": 263,
+        "width": 27,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 309,
+        "y": 263,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Sir",
+        "x": 327,
+        "y": 264,
+        "width": 14,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "assistants,",
+        "x": 344,
+        "y": 265,
+        "width": 44,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "adaptive",
+        "x": 391,
+        "y": 263,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "education),",
+        "x": 430,
+        "y": 263,
+        "width": 46,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "social",
+        "x": 482,
+        "y": 263,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "impact",
+        "x": 90,
+        "y": 279,
+        "width": 29,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 123,
+        "y": 267,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "AI",
+        "x": 137,
+        "y": 267,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "(postive",
+        "x": 148,
+        "y": 277,
+        "width": 38,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 190,
+        "y": 277,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "negative",
+        "x": 209,
+        "y": 279,
+        "width": 37,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "impact,",
+        "x": 250,
+        "y": 279,
+        "width": 32,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "value",
+        "x": 285,
+        "y": 277,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 312,
+        "y": 267,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "compromises,",
+        "x": 326,
+        "y": 267,
+        "width": 59,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "ethical",
+        "x": 389,
+        "y": 267,
+        "width": 29,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "issues).",
+        "x": 421,
+        "y": 278,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "For",
+        "x": 456,
+        "y": 278,
+        "width": 15,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "each",
+        "x": 474,
+        "y": 277,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "of,",
+        "x": 497,
+        "y": 277,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 90,
+        "y": 290,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "topics,",
+        "x": 107,
+        "y": 292,
+        "width": 28,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "examples",
+        "x": 138,
+        "y": 290,
+        "width": 41,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 182,
+        "y": 290,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "tasks",
+        "x": 193,
+        "y": 290,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "are",
+        "x": 219,
+        "y": 280,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "given",
+        "x": 236,
+        "y": 293,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 263,
+        "y": 290,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 282,
+        "y": 290,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "knowledge",
+        "x": 299,
+        "y": 290,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 351,
+        "y": 290,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "skills",
+        "x": 370,
+        "y": 290,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "that",
+        "x": 395,
+        "y": 290,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "students",
+        "x": 416,
+        "y": 290,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "ofa",
+        "x": 457,
+        "y": 290,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "certain",
+        "x": 475,
+        "y": 280,
+        "width": 31,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "age",
+        "x": 90,
+        "y": 307,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "should",
+        "x": 108,
+        "y": 304,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "master",
+        "x": 140,
+        "y": 306,
+        "width": 30,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "are",
+        "x": 173,
+        "y": 307,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "described.",
+        "x": 190,
+        "y": 304,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "‘At",
+        "x": 101,
+        "y": 318,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "one",
+        "x": 114,
+        "y": 320,
+        "width": 16,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "ofthe",
+        "x": 133,
+        "y": 317,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "AAAI",
+        "x": 162,
+        "y": 318,
+        "width": 25,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "conferences,",
+        "x": 190,
+        "y": 317,
+        "width": 52,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 248,
+        "y": 317,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "development",
+        "x": 265,
+        "y": 317,
+        "width": 56,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 325,
+        "y": 317,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "curricula",
+        "x": 336,
+        "y": 317,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "for",
+        "x": 379,
+        "y": 317,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "study",
+        "x": 394,
+        "y": 317,
+        "width": 23,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 422,
+        "y": 317,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "AL",
+        "x": 435,
+        "y": 306,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "at",
+        "x": 447,
+        "y": 319,
+        "width": 7,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "school",
+        "x": 458,
+        "y": 317,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "was",
+        "x": 489,
+        "y": 320,
+        "width": 17,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "presented.",
+        "x": 90,
+        "y": 331,
+        "width": 42,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "In",
+        "x": 139,
+        "y": 332,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "particular,",
+        "x": 150,
+        "y": 331,
+        "width": 43,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 198,
+        "y": 334,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "2020,",
+        "x": 210,
+        "y": 332,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "Personal",
+        "x": 235,
+        "y": 331,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Robots",
+        "x": 276,
+        "y": 331,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Group",
+        "x": 309,
+        "y": 332,
+        "width": 28,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "atthe",
+        "x": 340,
+        "y": 331,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "MIT",
+        "x": 368,
+        "y": 332,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "Media",
+        "x": 390,
+        "y": 331,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Lab,",
+        "x": 420,
+        "y": 331,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "MIT",
+        "x": 442,
+        "y": 332,
+        "width": 18,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "STEP",
+        "x": 463,
+        "y": 332,
+        "width": 23,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "Lab,",
+        "x": 489,
+        "y": 331,
+        "width": 18,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 90,
+        "y": 345,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Boston",
+        "x": 108,
+        "y": 346,
+        "width": 29,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "College",
+        "x": 140,
+        "y": 345,
+        "width": 32,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "presented",
+        "x": 174,
+        "y": 345,
+        "width": 42,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 219,
+        "y": 345,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "DAILy",
+        "x": 235,
+        "y": 346,
+        "width": 27,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "Workshop",
+        "x": 266,
+        "y": 345,
+        "width": 44,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "[s].",
+        "x": 313,
+        "y": 345,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "The",
+        "x": 330,
+        "y": 345,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "program",
+        "x": 349,
+        "y": 335,
+        "width": 36,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "also",
+        "x": 387,
+        "y": 335,
+        "width": 17,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "included",
+        "x": 408,
+        "y": 345,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "ilo",
+        "x": 447,
+        "y": 345,
+        "width": 19,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "partners,",
+        "x": 468,
+        "y": 347,
+        "width": 39,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "‘STEAM",
+        "x": 89,
+        "y": 359,
+        "width": 35,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "Ahead",
+        "x": 128,
+        "y": 358,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 160,
+        "y": 358,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "BC",
+        "x": 180,
+        "y": 348,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "College",
+        "x": 195,
+        "y": 358,
+        "width": 34,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "Bound.",
+        "x": 232,
+        "y": 358,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "The",
+        "x": 267,
+        "y": 358,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "course",
+        "x": 288,
+        "y": 361,
+        "width": 29,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "consists",
+        "x": 320,
+        "y": 360,
+        "width": 35,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 360,
+        "y": 358,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "four",
+        "x": 370,
+        "y": 358,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "sections:",
+        "x": 392,
+        "y": 360,
+        "width": 36,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "AUIntroduction,",
+        "x": 435,
+        "y": 358,
+        "width": 72,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "‘Supervised",
+        "x": 89,
+        "y": 372,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "Machine",
+        "x": 145,
+        "y": 362,
+        "width": 36,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "Learning,",
+        "x": 185,
+        "y": 362,
+        "width": 43,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "GANS,",
+        "x": 230,
+        "y": 373,
+        "width": 42,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Aland",
+        "x": 264,
+        "y": 362,
+        "width": 27,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "My",
+        "x": 297,
+        "y": 373,
+        "width": 12,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "Future",
+        "x": 313,
+        "y": 373,
+        "width": 29,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "Each",
+        "x": 348,
+        "y": 372,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "section",
+        "x": 373,
+        "y": 374,
+        "width": 31,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "contains",
+        "x": 408,
+        "y": 374,
+        "width": 37,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "explanations",
+        "x": 449,
+        "y": 372,
+        "width": 57,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 90,
+        "y": 385,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "basic",
+        "x": 101,
+        "y": 385,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "concepts",
+        "x": 127,
+        "y": 387,
+        "width": 38,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 169,
+        "y": 385,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "exercises",
+        "x": 188,
+        "y": 388,
+        "width": 39,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "to",
+        "x": 231,
+        "y": 387,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "better",
+        "x": 243,
+        "y": 385,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "understand",
+        "x": 272,
+        "y": 385,
+        "width": 50,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 326,
+        "y": 385,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "work",
+        "x": 342,
+        "y": 385,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 369,
+        "y": 375,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "artifical",
+        "x": 374,
+        "y": 385,
+        "width": 43,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "intelligence,",
+        "x": 421,
+        "y": 385,
+        "width": 53,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "neural",
+        "x": 478,
+        "y": 385,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "networks",
+        "x": 90,
+        "y": 399,
+        "width": 41,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 134,
+        "y": 399,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "more",
+        "x": 153,
+        "y": 402,
+        "width": 22,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "{in",
+        "x": 101,
+        "y": 413,
+        "width": 13,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 118,
+        "y": 412,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Van",
+        "x": 136,
+        "y": 413,
+        "width": 15,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "Brummelen",
+        "x": 155,
+        "y": 412,
+        "width": 50,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "[7]",
+        "x": 208,
+        "y": 412,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "dseribe",
+        "x": 223,
+        "y": 412,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 262,
+        "y": 412,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "experience",
+        "x": 277,
+        "y": 415,
+        "width": 47,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 327,
+        "y": 412,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "conducting",
+        "x": 337,
+        "y": 412,
+        "width": 49,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "seminarsin",
+        "x": 389,
+        "y": 415,
+        "width": 49,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "which",
+        "x": 441,
+        "y": 412,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "teachers",
+        "x": 470,
+        "y": 412,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 90,
+        "y": 415,
+        "width": 15,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "researchers",
+        "x": 109,
+        "y": 426,
+        "width": 61,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "created",
+        "x": 163,
+        "y": 415,
+        "width": 31,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "lesson",
+        "x": 198,
+        "y": 415,
+        "width": 26,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "plans",
+        "x": 228,
+        "y": 415,
+        "width": 22,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 254,
+        "y": 426,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "AI",
+        "x": 275,
+        "y": 415,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "concepts",
+        "x": 289,
+        "y": 415,
+        "width": 35,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "were",
+        "x": 330,
+        "y": 429,
+        "width": 18,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "embedded",
+        "x": 353,
+        "y": 426,
+        "width": 69,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 401,
+        "y": 415,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "various",
+        "x": 412,
+        "y": 415,
+        "width": 33,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "core",
+        "x": 450,
+        "y": 415,
+        "width": 16,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "subjects",
+        "x": 470,
+        "y": 426,
+        "width": 35,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "‘They",
+        "x": 89,
+        "y": 439,
+        "width": 23,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "identified",
+        "x": 115,
+        "y": 439,
+        "width": 42,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "entry",
+        "x": 160,
+        "y": 441,
+        "width": 23,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "points",
+        "x": 187,
+        "y": 441,
+        "width": 27,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 217,
+        "y": 442,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "various",
+        "x": 229,
+        "y": 442,
+        "width": 32,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "subject",
+        "x": 264,
+        "y": 439,
+        "width": 35,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "(not",
+        "x": 303,
+        "y": 440,
+        "width": 17,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "computer",
+        "x": 324,
+        "y": 441,
+        "width": 42,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "science)",
+        "x": 369,
+        "y": 440,
+        "width": 35,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "for",
+        "x": 407,
+        "y": 439,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Al",
+        "x": 423,
+        "y": 440,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "teachin.",
+        "x": 437,
+        "y": 439,
+        "width": 37,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "“The",
+        "x": 100,
+        "y": 453,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "first",
+        "x": 120,
+        "y": 453,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "step",
+        "x": 140,
+        "y": 455,
+        "width": 17,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 161,
+        "y": 442,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "curricula",
+        "x": 171,
+        "y": 453,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "development",
+        "x": 213,
+        "y": 453,
+        "width": 55,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "to",
+        "x": 271,
+        "y": 455,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "study",
+        "x": 282,
+        "y": 453,
+        "width": 23,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 309,
+        "y": 453,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "bases",
+        "x": 325,
+        "y": 453,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 355,
+        "y": 453,
+        "width": 7,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "artificial",
+        "x": 365,
+        "y": 453,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "intelligence",
+        "x": 403,
+        "y": 453,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "by",
+        "x": 456,
+        "y": 453,
+        "width": 11,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "students",
+        "x": 470,
+        "y": 453,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 90,
+        "y": 470,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "Ukraine",
+        "x": 101,
+        "y": 467,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "was",
+        "x": 142,
+        "y": 470,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 160,
+        "y": 456,
+        "width": 13,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "course",
+        "x": 177,
+        "y": 470,
+        "width": 28,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "\"10-11",
+        "x": 214,
+        "y": 468,
+        "width": 9,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "grade.",
+        "x": 228,
+        "y": 467,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "Computer",
+        "x": 275,
+        "y": 456,
+        "width": 40,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "Science.",
+        "x": 319,
+        "y": 456,
+        "width": 32,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "Artificial",
+        "x": 359,
+        "y": 456,
+        "width": 38,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "Intelligence’,",
+        "x": 401,
+        "y": 456,
+        "width": 59,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "developed",
+        "x": 461,
+        "y": 467,
+        "width": 45,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "within",
+        "x": 89,
+        "y": 480,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 123,
+        "y": 480,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "UNICEF",
+        "x": 140,
+        "y": 481,
+        "width": 37,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "program",
+        "x": 181,
+        "y": 483,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "by",
+        "x": 223,
+        "y": 480,
+        "width": 11,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "Oksana",
+        "x": 238,
+        "y": 480,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Pasichnyk,",
+        "x": 275,
+        "y": 480,
+        "width": 49,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "Oleksiy",
+        "x": 328,
+        "y": 480,
+        "width": 34,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "Molchanovsky.",
+        "x": 366,
+        "y": 480,
+        "width": 66,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "Vyacheslav",
+        "x": 438,
+        "y": 480,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "Os-",
+        "x": 492,
+        "y": 481,
+        "width": 12,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "aulenko,",
+        "x": 90,
+        "y": 494,
+        "width": 34,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Veronica",
+        "x": 132,
+        "y": 495,
+        "width": 36,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "Tamayo",
+        "x": 172,
+        "y": 484,
+        "width": 31,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "Flores",
+        "x": 209,
+        "y": 494,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "[3]",
+        "x": 238,
+        "y": 494,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "It",
+        "x": 256,
+        "y": 495,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "contains",
+        "x": 265,
+        "y": 496,
+        "width": 37,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 305,
+        "y": 494,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "adapted",
+        "x": 322,
+        "y": 494,
+        "width": 34,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "versions",
+        "x": 359,
+        "y": 497,
+        "width": 36,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 399,
+        "y": 484,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 404,
+        "y": 494,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "A",
+        "x": 429,
+        "y": 495,
+        "width": 7,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "course",
+        "x": 440,
+        "y": 495,
+        "width": 28,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 472,
+        "y": 494,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "test",
+        "x": 491,
+        "y": 496,
+        "width": 14,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "materials,",
+        "x": 90,
+        "y": 507,
+        "width": 40,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "“The",
+        "x": 96,
+        "y": 510,
+        "width": 19,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "analysis",
+        "x": 121,
+        "y": 510,
+        "width": 34,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 158,
+        "y": 521,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "scientific",
+        "x": 170,
+        "y": 521,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "publications",
+        "x": 211,
+        "y": 521,
+        "width": 53,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "on",
+        "x": 267,
+        "y": 524,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "education",
+        "x": 281,
+        "y": 521,
+        "width": 42,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "inthe",
+        "x": 327,
+        "y": 521,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "attifiial",
+        "x": 355,
+        "y": 521,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "intelligence",
+        "x": 394,
+        "y": 521,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "showed",
+        "x": 448,
+        "y": 521,
+        "width": 32,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "there",
+        "x": 484,
+        "y": 521,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "isthe",
+        "x": 90,
+        "y": 534,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "majortyofcutrcula",
+        "x": 115,
+        "y": 534,
+        "width": 90,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "ae",
+        "x": 208,
+        "y": 537,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "presented",
+        "x": 223,
+        "y": 534,
+        "width": 43,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "by",
+        "x": 269,
+        "y": 534,
+        "width": 10,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "universities",
+        "x": 282,
+        "y": 536,
+        "width": 50,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 335,
+        "y": 537,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "Ukraine",
+        "x": 346,
+        "y": 534,
+        "width": 62,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 382,
+        "y": 523,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 394,
+        "y": 523,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "form",
+        "x": 411,
+        "y": 534,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 434,
+        "y": 523,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "textbooks",
+        "x": 440,
+        "y": 534,
+        "width": 47,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 490,
+        "y": 534,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "articles.",
+        "x": 90,
+        "y": 548,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "In",
+        "x": 128,
+        "y": 549,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "pat,",
+        "x": 140,
+        "y": 551,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "these",
+        "x": 164,
+        "y": 548,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "curricula",
+        "x": 190,
+        "y": 548,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "are",
+        "x": 242,
+        "y": 551,
+        "width": 4,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "presented",
+        "x": 250,
+        "y": 548,
+        "width": 43,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 297,
+        "y": 551,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "schools",
+        "x": 308,
+        "y": 548,
+        "width": 33,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 349,
+        "y": 548,
+        "width": 11,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "lyceum",
+        "x": 364,
+        "y": 548,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "that",
+        "x": 404,
+        "y": 548,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "actively",
+        "x": 424,
+        "y": 548,
+        "width": 35,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "cooperate",
+        "x": 462,
+        "y": 550,
+        "width": 44,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "‘with",
+        "x": 89,
+        "y": 561,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "universities",
+        "x": 113,
+        "y": 563,
+        "width": 52,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "or",
+        "x": 169,
+        "y": 550,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "their",
+        "x": 174,
+        "y": 561,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "teachers",
+        "x": 206,
+        "y": 561,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "[9,",
+        "x": 247,
+        "y": 561,
+        "width": 8,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "1,",
+        "x": 262,
+        "y": 562,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "11",
+        "x": 277,
+        "y": 562,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "12,13,",
+        "x": 293,
+        "y": 562,
+        "width": 23,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "14].",
+        "x": 324,
+        "y": 561,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "It",
+        "x": 344,
+        "y": 562,
+        "width": 5,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "should",
+        "x": 352,
+        "y": 561,
+        "width": 75,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "be",
+        "x": 386,
+        "y": 550,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "noted,",
+        "x": 400,
+        "y": 561,
+        "width": 26,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 431,
+        "y": 564,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "Ukraine",
+        "x": 442,
+        "y": 561,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "study.",
+        "x": 482,
+        "y": 561,
+        "width": 24,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 90,
+        "y": 575,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "atificial",
+        "x": 101,
+        "y": 575,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "intelligence",
+        "x": 142,
+        "y": 575,
+        "width": 78,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "as",
+        "x": 198,
+        "y": 564,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "an",
+        "x": 209,
+        "y": 564,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "object",
+        "x": 223,
+        "y": 564,
+        "width": 27,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "was",
+        "x": 256,
+        "y": 578,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "based",
+        "x": 274,
+        "y": 575,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "on",
+        "x": 302,
+        "y": 578,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 317,
+        "y": 575,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "use",
+        "x": 334,
+        "y": 578,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 352,
+        "y": 575,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "expert",
+        "x": 364,
+        "y": 577,
+        "width": 28,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "systems",
+        "x": 395,
+        "y": 577,
+        "width": 35,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "as",
+        "x": 434,
+        "y": 578,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "teaching",
+        "x": 446,
+        "y": 575,
+        "width": 38,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "aids.",
+        "x": 488,
+        "y": 575,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "However,",
+        "x": 90,
+        "y": 589,
+        "width": 40,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 137,
+        "y": 588,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "current",
+        "x": 155,
+        "y": 590,
+        "width": 32,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "level",
+        "x": 191,
+        "y": 588,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 216,
+        "y": 588,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "knowledge",
+        "x": 229,
+        "y": 588,
+        "width": 49,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "allows",
+        "x": 282,
+        "y": 588,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "us",
+        "x": 315,
+        "y": 591,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "to",
+        "x": 329,
+        "y": 590,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "consider",
+        "x": 341,
+        "y": 588,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 384,
+        "y": 588,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "tasks",
+        "x": 402,
+        "y": 588,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 429,
+        "y": 577,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "direct",
+        "x": 440,
+        "y": 588,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "taining",
+        "x": 470,
+        "y": 590,
+        "width": 36,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 90,
+        "y": 602,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "artifical",
+        "x": 102,
+        "y": 602,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "intelligence",
+        "x": 144,
+        "y": 602,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 200,
+        "y": 602,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "expert",
+        "x": 221,
+        "y": 604,
+        "width": 28,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "systems:",
+        "x": 253,
+        "y": 604,
+        "width": 35,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "teaching,",
+        "x": 297,
+        "y": 602,
+        "width": 38,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "management,",
+        "x": 342,
+        "y": 604,
+        "width": 58,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "planning,",
+        "x": 407,
+        "y": 602,
+        "width": 40,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "monitoring,",
+        "x": 454,
+        "y": 604,
+        "width": 53,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "diagnostics,",
+        "x": 90,
+        "y": 616,
+        "width": 49,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "data",
+        "x": 145,
+        "y": 616,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "interpretation,",
+        "x": 167,
+        "y": 618,
+        "width": 63,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "forecasting,",
+        "x": 234,
+        "y": 616,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "designing",
+        "x": 288,
+        "y": 616,
+        "width": 43,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "[15]",
+        "x": 335,
+        "y": 616,
+        "width": 16,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "“Mokin",
+        "x": 101,
+        "y": 629,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "[15]",
+        "x": 134,
+        "y": 629,
+        "width": 16,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "presents",
+        "x": 154,
+        "y": 631,
+        "width": 38,
+        "height": 9
+    },
+    {
+        "page": 4,
+        "text": "examples",
+        "x": 195,
+        "y": 629,
+        "width": 42,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 241,
+        "y": 619,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "solving",
+        "x": 253,
+        "y": 629,
+        "width": 32,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "real",
+        "x": 289,
+        "y": 629,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "problems",
+        "x": 309,
+        "y": 629,
+        "width": 41,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "by",
+        "x": 354,
+        "y": 629,
+        "width": 11,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "machine",
+        "x": 369,
+        "y": 629,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "learning",
+        "x": 410,
+        "y": 629,
+        "width": 38,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "methods",
+        "x": 451,
+        "y": 629,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "for",
+        "x": 493,
+        "y": 629,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "forecasting",
+        "x": 90,
+        "y": 643,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "water",
+        "x": 144,
+        "y": 645,
+        "width": 25,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "quality",
+        "x": 173,
+        "y": 643,
+        "width": 31,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 209,
+        "y": 646,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 221,
+        "y": 643,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Southern",
+        "x": 239,
+        "y": 643,
+        "width": 41,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "Bug",
+        "x": 284,
+        "y": 644,
+        "width": 17,
+        "height": 10
+    },
+    {
+        "page": 4,
+        "text": "Rive,",
+        "x": 305,
+        "y": 644,
+        "width": 24,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "forecasting",
+        "x": 335,
+        "y": 643,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "the",
+        "x": 389,
+        "y": 643,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "number",
+        "x": 407,
+        "y": 643,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "of",
+        "x": 446,
+        "y": 643,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "COVID-19",
+        "x": 458,
+        "y": 644,
+        "width": 48,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "diseases,",
+        "x": 90,
+        "y": 656,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "etc,",
+        "x": 132,
+        "y": 658,
+        "width": 13,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "These",
+        "x": 153,
+        "y": 656,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "models",
+        "x": 184,
+        "y": 656,
+        "width": 32,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "are",
+        "x": 221,
+        "y": 645,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "designed",
+        "x": 237,
+        "y": 656,
+        "width": 40,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "to",
+        "x": 282,
+        "y": 658,
+        "width": 7,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "be",
+        "x": 293,
+        "y": 645,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "studied",
+        "x": 308,
+        "y": 656,
+        "width": 32,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "by",
+        "x": 344,
+        "y": 656,
+        "width": 11,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "graduate",
+        "x": 359,
+        "y": 656,
+        "width": 39,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "students",
+        "x": 403,
+        "y": 656,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 444,
+        "y": 656,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "scientists",
+        "x": 465,
+        "y": 658,
+        "width": 41,
+        "height": 6
+    },
+    {
+        "page": 4,
+        "text": "involved",
+        "x": 90,
+        "y": 670,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "in",
+        "x": 130,
+        "y": 673,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 4,
+        "text": "mathematical",
+        "x": 141,
+        "y": 670,
+        "width": 58,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "modeling",
+        "x": 202,
+        "y": 670,
+        "width": 41,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "and",
+        "x": 246,
+        "y": 670,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "computational",
+        "x": 264,
+        "y": 670,
+        "width": 62,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "methods,",
+        "x": 330,
+        "y": 670,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 4,
+        "text": "In",
+        "x": 372,
+        "y": 671,
+        "width": 9,
+        "height": 7
+    },
+    {
+        "page": 4,
+        "text": "particular,",
+        "x": 384,
+        "y": 670,
+        "width": 42,
+        "height": 11
+    },
+    {
+        "page": 4,
+        "text": "masters",
+        "x": 433,
+        "y": 659,
+        "width": 34,
+        "height": 28
+    },
+    {
+        "page": 4,
+        "text": "students",
+        "x": 471,
+        "y": 659,
+        "width": 35,
+        "height": 28
+    }
+]

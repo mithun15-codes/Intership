@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Profile • Instagram</title>
+  <link rel="stylesheet" href="css/styles.css?v=16" />
+</head>
+<body>
+  <nav class="top-nav" id="top-nav"></nav>
+
+  <main class="page">
+    <div class="feed-container">
+      
+      <!-- Profile Header -->
+      <header class="profile-header" id="profile-header">
+        <!-- Rendered by JS -->
+      </header>
+
+      <!-- Tabs -->
+      <div class="profile-tabs">
+        <div class="profile-tab active" id="tab-posts" onclick="switchProfileTab('posts')">
+          <svg viewBox="0 0 24 24" fill="currentColor"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+        </div>
+        <div class="profile-tab" id="tab-reels" onclick="switchProfileTab('reels')">
+          <svg viewBox="0 0 24 24" fill="currentColor"><rect x="2" y="2" width="20" height="20" rx="4"/><path d="M10 8l6 4-6 4V8z" fill="black"/></svg>
+        </div>
+        <div class="profile-tab" id="tab-saved" onclick="switchProfileTab('saved')">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg>
+        </div>
+      </div>
+
+      <!-- Grid -->
+      <div class="profile-grid" id="profile-grid">
+        <!-- Rendered by JS -->
+      </div>
+
+    </div>
+  </main>
+
+  <nav class="bottom-nav" id="bottom-nav"></nav>
+
+  <script src="js/data.js?v=16"></script>
+  <script src="js/app.js?v=16"></script>
+  <script src="js/profile.js?v=16"></script>
+</body>
+</html>

@@ -1,0 +1,2434 @@
+[
+    {
+        "page": 7,
+        "text": "Figure",
+        "x": 90,
+        "y": 350,
+        "width": 36,
+        "height": 10
+    },
+    {
+        "page": 7,
+        "text": "2:",
+        "x": 121,
+        "y": 339,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "DALL-E",
+        "x": 132,
+        "y": 350,
+        "width": 23,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "combines",
+        "x": 159,
+        "y": 350,
+        "width": 46,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 208,
+        "y": 350,
+        "width": 12,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "shape",
+        "x": 224,
+        "y": 350,
+        "width": 23,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 250,
+        "y": 350,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "he",
+        "x": 261,
+        "y": 350,
+        "width": 12,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "chai",
+        "x": 277,
+        "y": 350,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "withthe",
+        "x": 300,
+        "y": 350,
+        "width": 33,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "latus",
+        "x": 337,
+        "y": 350,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "oot",
+        "x": 360,
+        "y": 351,
+        "width": 15,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 113,
+        "y": 377,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "things",
+        "x": 129,
+        "y": 388,
+        "width": 27,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "that",
+        "x": 160,
+        "y": 388,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "combine",
+        "x": 180,
+        "y": 388,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "real",
+        "x": 221,
+        "y": 388,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "and",
+        "x": 241,
+        "y": 388,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "imaginary",
+        "x": 260,
+        "y": 391,
+        "width": 45,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "things.",
+        "x": 309,
+        "y": 388,
+        "width": 27,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "Students",
+        "x": 342,
+        "y": 388,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "canbe",
+        "x": 384,
+        "y": 388,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "asked",
+        "x": 416,
+        "y": 388,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 444,
+        "y": 390,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "choose",
+        "x": 455,
+        "y": 388,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "text",
+        "x": 489,
+        "y": 390,
+        "width": 16,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "captions",
+        "x": 117,
+        "y": 404,
+        "width": 36,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "and",
+        "x": 157,
+        "y": 402,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "discuss:",
+        "x": 176,
+        "y": 402,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "Is",
+        "x": 213,
+        "y": 403,
+        "width": 7,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "this",
+        "x": 224,
+        "y": 402,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "possible?",
+        "x": 243,
+        "y": 402,
+        "width": 39,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "How",
+        "x": 286,
+        "y": 403,
+        "width": 21,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "can",
+        "x": 310,
+        "y": 405,
+        "width": 15,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "this",
+        "x": 329,
+        "y": 402,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "be",
+        "x": 348,
+        "y": 402,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "created?",
+        "x": 361,
+        "y": 402,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "How",
+        "x": 401,
+        "y": 402,
+        "width": 34,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "do",
+        "x": 425,
+        "y": 391,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "others",
+        "x": 439,
+        "y": 402,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "perceive",
+        "x": 469,
+        "y": 405,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "it?",
+        "x": 117,
+        "y": 416,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "What",
+        "x": 131,
+        "y": 415,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "does",
+        "x": 159,
+        "y": 415,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "it",
+        "x": 182,
+        "y": 417,
+        "width": 5,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "take",
+        "x": 199,
+        "y": 415,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 213,
+        "y": 417,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "put",
+        "x": 224,
+        "y": 417,
+        "width": 14,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "this",
+        "x": 242,
+        "y": 415,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "into",
+        "x": 261,
+        "y": 417,
+        "width": 17,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "practice,",
+        "x": 281,
+        "y": 417,
+        "width": 35,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "ete.",
+        "x": 322,
+        "y": 417,
+        "width": 12,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "gure",
+        "x": 340,
+        "y": 415,
+        "width": 29,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "2)",
+        "x": 373,
+        "y": 416,
+        "width": 7,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "Recognition",
+        "x": 117,
+        "y": 431,
+        "width": 52,
+        "height": 10
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 172,
+        "y": 419,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "emotions",
+        "x": 177,
+        "y": 430,
+        "width": 45,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "ia",
+        "x": 225,
+        "y": 433,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "separate",
+        "x": 241,
+        "y": 419,
+        "width": 36,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "topic",
+        "x": 280,
+        "y": 432,
+        "width": 21,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 304,
+        "y": 419,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "Al",
+        "x": 316,
+        "y": 419,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "taining.",
+        "x": 328,
+        "y": 432,
+        "width": 34,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "Scientists",
+        "x": 367,
+        "y": 431,
+        "width": 41,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "have",
+        "x": 411,
+        "y": 430,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "launched",
+        "x": 434,
+        "y": 430,
+        "width": 72,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "a",
+        "x": 477,
+        "y": 419,
+        "width": 3,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "game",
+        "x": 484,
+        "y": 419,
+        "width": 26,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 117,
+        "y": 446,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "show",
+        "x": 129,
+        "y": 444,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "how",
+        "x": 155,
+        "y": 444,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "artificial",
+        "x": 190,
+        "y": 444,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "intelligence",
+        "x": 217,
+        "y": 444,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "recognizes",
+        "x": 271,
+        "y": 447,
+        "width": 46,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "emotions.",
+        "x": 320,
+        "y": 446,
+        "width": 41,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "They",
+        "x": 367,
+        "y": 444,
+        "width": 21,
+        "height": 10
+    },
+    {
+        "page": 7,
+        "text": "want",
+        "x": 392,
+        "y": 446,
+        "width": 22,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 418,
+        "y": 446,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "draw",
+        "x": 429,
+        "y": 444,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "attention",
+        "x": 454,
+        "y": 446,
+        "width": 40,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 498,
+        "y": 446,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 117,
+        "y": 457,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "problem",
+        "x": 133,
+        "y": 457,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 172,
+        "y": 457,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "tacking",
+        "x": 184,
+        "y": 457,
+        "width": 75,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "a",
+        "x": 222,
+        "y": 447,
+        "width": 3,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "person",
+        "x": 229,
+        "y": 457,
+        "width": 29,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "[19,20].",
+        "x": 263,
+        "y": 457,
+        "width": 31,
+        "height": 10
+    },
+    {
+        "page": 7,
+        "text": "The",
+        "x": 300,
+        "y": 457,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "game",
+        "x": 320,
+        "y": 460,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "is",
+        "x": 346,
+        "y": 460,
+        "width": 7,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "available",
+        "x": 356,
+        "y": 457,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "in",
+        "x": 397,
+        "y": 460,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 409,
+        "y": 457,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "cloud",
+        "x": 425,
+        "y": 457,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "and",
+        "x": 451,
+        "y": 457,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "involves",
+        "x": 470,
+        "y": 457,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "various",
+        "x": 117,
+        "y": 474,
+        "width": 32,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "tasks",
+        "x": 153,
+        "y": 471,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "elated",
+        "x": 179,
+        "y": 471,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "tothe",
+        "x": 213,
+        "y": 471,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "recognition",
+        "x": 242,
+        "y": 473,
+        "width": 51,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 297,
+        "y": 471,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "emotions",
+        "x": 308,
+        "y": 471,
+        "width": 41,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "by",
+        "x": 352,
+        "y": 471,
+        "width": 11,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "artificial",
+        "x": 366,
+        "y": 471,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "intelligence",
+        "x": 407,
+        "y": 471,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "through",
+        "x": 462,
+        "y": 471,
+        "width": 44,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "a",
+        "x": 502,
+        "y": 460,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "computer",
+        "x": 117,
+        "y": 487,
+        "width": 42,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "webcam.",
+        "x": 163,
+        "y": 485,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "It",
+        "x": 208,
+        "y": 486,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "has",
+        "x": 217,
+        "y": 485,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "two",
+        "x": 236,
+        "y": 487,
+        "width": 15,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "stages.",
+        "x": 256,
+        "y": 474,
+        "width": 32,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "In",
+        "x": 291,
+        "y": 486,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 303,
+        "y": 485,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "frst",
+        "x": 321,
+        "y": 485,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "you",
+        "x": 342,
+        "y": 488,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "need",
+        "x": 362,
+        "y": 485,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 387,
+        "y": 487,
+        "width": 9,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "guess",
+        "x": 399,
+        "y": 488,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "~",
+        "x": 428,
+        "y": 490,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "page": 7,
+        "text": "inthe",
+        "x": 437,
+        "y": 485,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "picture",
+        "x": 466,
+        "y": 487,
+        "width": 31,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "a",
+        "x": 501,
+        "y": 488,
+        "width": 5,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "person",
+        "x": 117,
+        "y": 501,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "squint",
+        "x": 149,
+        "y": 500,
+        "width": 31,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "atthe",
+        "x": 183,
+        "y": 498,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "rays",
+        "x": 210,
+        "y": 501,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 231,
+        "y": 498,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "light",
+        "x": 243,
+        "y": 498,
+        "width": 19,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "oF",
+        "x": 265,
+        "y": 501,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "winks.",
+        "x": 277,
+        "y": 498,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "In",
+        "x": 309,
+        "y": 499,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 321,
+        "y": 498,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "second,",
+        "x": 337,
+        "y": 498,
+        "width": 51,
+        "height": 10
+    },
+    {
+        "page": 7,
+        "text": "you",
+        "x": 374,
+        "y": 488,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "need",
+        "x": 391,
+        "y": 498,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 415,
+        "y": 500,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "capture",
+        "x": 426,
+        "y": 500,
+        "width": 32,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "on",
+        "x": 461,
+        "y": 501,
+        "width": 10,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "camera",
+        "x": 475,
+        "y": 501,
+        "width": 31,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "each",
+        "x": 117,
+        "y": 512,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "ofthe",
+        "x": 141,
+        "y": 502,
+        "width": 24,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "six",
+        "x": 169,
+        "y": 515,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "emotions",
+        "x": 185,
+        "y": 502,
+        "width": 38,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "(Happiness,",
+        "x": 227,
+        "y": 502,
+        "width": 52,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "Sadness,",
+        "x": 282,
+        "y": 512,
+        "width": 34,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "Fear,",
+        "x": 322,
+        "y": 513,
+        "width": 9,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "Surprise,",
+        "x": 346,
+        "y": 502,
+        "width": 38,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "Disgust,",
+        "x": 388,
+        "y": 502,
+        "width": 32,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "Anger)",
+        "x": 426,
+        "y": 513,
+        "width": 42,
+        "height": 10
+    },
+    {
+        "page": 7,
+        "text": "so",
+        "x": 458,
+        "y": 502,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "thatthe",
+        "x": 472,
+        "y": 512,
+        "width": 34,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "Al",
+        "x": 117,
+        "y": 526,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "recognizes",
+        "x": 131,
+        "y": 528,
+        "width": 47,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "it.",
+        "x": 182,
+        "y": 527,
+        "width": 5,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "The",
+        "x": 193,
+        "y": 525,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "fist",
+        "x": 214,
+        "y": 525,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "gatne",
+        "x": 235,
+        "y": 528,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "shows",
+        "x": 262,
+        "y": 525,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "how",
+        "x": 294,
+        "y": 525,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "dificult",
+        "x": 316,
+        "y": 525,
+        "width": 34,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "its",
+        "x": 354,
+        "y": 527,
+        "width": 16,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "fora",
+        "x": 374,
+        "y": 525,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "person",
+        "x": 397,
+        "y": 528,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 431,
+        "y": 527,
+        "width": 9,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "determine",
+        "x": 443,
+        "y": 525,
+        "width": 45,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 492,
+        "y": 525,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "condition",
+        "x": 117,
+        "y": 539,
+        "width": 42,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 163,
+        "y": 539,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "another",
+        "x": 175,
+        "y": 539,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "person",
+        "x": 213,
+        "y": 542,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "by",
+        "x": 248,
+        "y": 539,
+        "width": 8,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "a",
+        "x": 262,
+        "y": 542,
+        "width": 3,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "static",
+        "x": 269,
+        "y": 541,
+        "width": 24,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "photo.",
+        "x": 296,
+        "y": 539,
+        "width": 26,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "The",
+        "x": 329,
+        "y": 539,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "second",
+        "x": 349,
+        "y": 539,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "i",
+        "x": 384,
+        "y": 542,
+        "width": 6,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 394,
+        "y": 541,
+        "width": 15,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "tain",
+        "x": 419,
+        "y": 542,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "children's",
+        "x": 431,
+        "y": 539,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "acting",
+        "x": 471,
+        "y": 541,
+        "width": 35,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "skills,",
+        "x": 117,
+        "y": 552,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "whether",
+        "x": 144,
+        "y": 552,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "AI",
+        "x": 184,
+        "y": 553,
+        "width": 9,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "wll",
+        "x": 197,
+        "y": 552,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "beable",
+        "x": 216,
+        "y": 552,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 250,
+        "y": 554,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "determine",
+        "x": 261,
+        "y": 552,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "your",
+        "x": 308,
+        "y": 555,
+        "width": 20,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "emotions.",
+        "x": 331,
+        "y": 554,
+        "width": 40,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "In",
+        "x": 377,
+        "y": 553,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "class",
+        "x": 389,
+        "y": 552,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "it",
+        "x": 415,
+        "y": 554,
+        "width": 5,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "will",
+        "x": 423,
+        "y": 552,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "be",
+        "x": 443,
+        "y": 552,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "appropriate",
+        "x": 456,
+        "y": 554,
+        "width": 50,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 117,
+        "y": 568,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "discus",
+        "x": 129,
+        "y": 566,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 163,
+        "y": 566,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "ability",
+        "x": 180,
+        "y": 566,
+        "width": 26,
+        "height": 10
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 211,
+        "y": 568,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "understand",
+        "x": 222,
+        "y": 566,
+        "width": 49,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "emotions.",
+        "x": 275,
+        "y": 568,
+        "width": 40,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "Even",
+        "x": 321,
+        "y": 567,
+        "width": 22,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "recognizing",
+        "x": 346,
+        "y": 569,
+        "width": 52,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "their",
+        "x": 401,
+        "y": 566,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "own",
+        "x": 425,
+        "y": 569,
+        "width": 18,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "is",
+        "x": 447,
+        "y": 569,
+        "width": 6,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "not",
+        "x": 458,
+        "y": 556,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "so",
+        "x": 474,
+        "y": 556,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "easy.",
+        "x": 487,
+        "y": 569,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "And",
+        "x": 117,
+        "y": 579,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 138,
+        "y": 581,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "teach",
+        "x": 150,
+        "y": 579,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "artificial",
+        "x": 176,
+        "y": 579,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "intelligence",
+        "x": 215,
+        "y": 579,
+        "width": 49,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 268,
+        "y": 581,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "recognize",
+        "x": 279,
+        "y": 582,
+        "width": 42,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "our",
+        "x": 324,
+        "y": 582,
+        "width": 15,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "emotions",
+        "x": 342,
+        "y": 581,
+        "width": 40,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "ea",
+        "x": 385,
+        "y": 582,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "task",
+        "x": 402,
+        "y": 568,
+        "width": 17,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "ofthe",
+        "x": 423,
+        "y": 568,
+        "width": 24,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "highest",
+        "x": 451,
+        "y": 579,
+        "width": 31,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "level",
+        "x": 486,
+        "y": 579,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "(Ggure",
+        "x": 117,
+        "y": 593,
+        "width": 28,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "3,",
+        "x": 149,
+        "y": 594,
+        "width": 7,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "‘The",
+        "x": 117,
+        "y": 608,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "topic",
+        "x": 137,
+        "y": 610,
+        "width": 21,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 161,
+        "y": 608,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "images",
+        "x": 173,
+        "y": 611,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "recognition",
+        "x": 206,
+        "y": 610,
+        "width": 50,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "can",
+        "x": 259,
+        "y": 611,
+        "width": 15,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "be",
+        "x": 277,
+        "y": 608,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "considered",
+        "x": 290,
+        "y": 608,
+        "width": 47,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "on",
+        "x": 341,
+        "y": 611,
+        "width": 10,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 355,
+        "y": 608,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "example",
+        "x": 371,
+        "y": 608,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 411,
+        "y": 608,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "Google",
+        "x": 422,
+        "y": 608,
+        "width": 31,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "QuickDravr",
+        "x": 456,
+        "y": 608,
+        "width": 49,
+        "height": 10
+    },
+    {
+        "page": 7,
+        "text": "[21,22].",
+        "x": 118,
+        "y": 621,
+        "width": 31,
+        "height": 10
+    },
+    {
+        "page": 7,
+        "text": "The",
+        "x": 157,
+        "y": 621,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "software",
+        "x": 179,
+        "y": 611,
+        "width": 38,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "gives",
+        "x": 221,
+        "y": 624,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "task",
+        "x": 247,
+        "y": 621,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 269,
+        "y": 623,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "draw",
+        "x": 282,
+        "y": 611,
+        "width": 19,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "a",
+        "x": 307,
+        "y": 624,
+        "width": 3,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "particular",
+        "x": 315,
+        "y": 621,
+        "width": 43,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "object,",
+        "x": 363,
+        "y": 621,
+        "width": 26,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "and",
+        "x": 396,
+        "y": 611,
+        "width": 15,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "AT",
+        "x": 417,
+        "y": 611,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "must",
+        "x": 430,
+        "y": 621,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "guess",
+        "x": 457,
+        "y": 611,
+        "width": 23,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "what",
+        "x": 485,
+        "y": 621,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 117,
+        "y": 635,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "user",
+        "x": 134,
+        "y": 638,
+        "width": 18,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "drew:",
+        "x": 156,
+        "y": 635,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "It",
+        "x": 183,
+        "y": 636,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "wil",
+        "x": 193,
+        "y": 635,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "be",
+        "x": 212,
+        "y": 635,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "useful",
+        "x": 225,
+        "y": 635,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "for",
+        "x": 255,
+        "y": 635,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "learning",
+        "x": 271,
+        "y": 635,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 311,
+        "y": 637,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "discuss",
+        "x": 322,
+        "y": 635,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 357,
+        "y": 635,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "stages",
+        "x": 374,
+        "y": 637,
+        "width": 26,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 404,
+        "y": 624,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 7,
+        "text": "creating",
+        "x": 416,
+        "y": 635,
+        "width": 35,
+        "height": 10
+    },
+    {
+        "page": 7,
+        "text": "and",
+        "x": 455,
+        "y": 635,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "solving",
+        "x": 474,
+        "y": 635,
+        "width": 32,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "pictures.",
+        "x": 117,
+        "y": 650,
+        "width": 35,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "The",
+        "x": 161,
+        "y": 648,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "system",
+        "x": 182,
+        "y": 650,
+        "width": 31,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "accompanies",
+        "x": 217,
+        "y": 651,
+        "width": 58,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "each",
+        "x": 279,
+        "y": 648,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "stage",
+        "x": 303,
+        "y": 650,
+        "width": 23,
+        "height": 9
+    },
+    {
+        "page": 7,
+        "text": "of",
+        "x": 330,
+        "y": 648,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "image",
+        "x": 343,
+        "y": 651,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "construction",
+        "x": 373,
+        "y": 650,
+        "width": 57,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "by",
+        "x": 434,
+        "y": 648,
+        "width": 11,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "a",
+        "x": 449,
+        "y": 651,
+        "width": 4,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "voice.",
+        "x": 457,
+        "y": 651,
+        "width": 23,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "Iti",
+        "x": 489,
+        "y": 649,
+        "width": 17,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "possible",
+        "x": 117,
+        "y": 662,
+        "width": 35,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 156,
+        "y": 664,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "track",
+        "x": 167,
+        "y": 662,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 193,
+        "y": 662,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "dynamics",
+        "x": 209,
+        "y": 662,
+        "width": 42,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "ofthe",
+        "x": 254,
+        "y": 662,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "Al",
+        "x": 283,
+        "y": 663,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "approach",
+        "x": 296,
+        "y": 662,
+        "width": 40,
+        "height": 11
+    },
+    {
+        "page": 7,
+        "text": "to",
+        "x": 340,
+        "y": 664,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "the",
+        "x": 352,
+        "y": 662,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 7,
+        "text": "correct",
+        "x": 368,
+        "y": 664,
+        "width": 31,
+        "height": 6
+    },
+    {
+        "page": 7,
+        "text": "answer,",
+        "x": 402,
+        "y": 665,
+        "width": 32,
+        "height": 5
+    },
+    {
+        "page": 7,
+        "text": "Its",
+        "x": 439,
+        "y": 663,
+        "width": 16,
+        "height": 7
+    },
+    {
+        "page": 7,
+        "text": "interesting",
+        "x": 459,
+        "y": 664,
+        "width": 47,
+        "height": 9
+    }
+]

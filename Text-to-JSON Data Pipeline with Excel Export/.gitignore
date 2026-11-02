@@ -1,0 +1,14 @@
+# Virtual environments
+.student/
+venv/
+.venv/
+env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+*.xlsx
+

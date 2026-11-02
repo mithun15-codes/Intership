@@ -1,0 +1,4026 @@
+[
+    {
+        "page": 2,
+        "text": "1.",
+        "x": 90,
+        "y": 86,
+        "width": 10,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "Problem",
+        "x": 108,
+        "y": 85,
+        "width": 54,
+        "height": 10
+    },
+    {
+        "page": 2,
+        "text": "statement",
+        "x": 167,
+        "y": 87,
+        "width": 64,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "“The",
+        "x": 89,
+        "y": 111,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Stanford",
+        "x": 109,
+        "y": 111,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Institute",
+        "x": 150,
+        "y": 112,
+        "width": 36,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "for",
+        "x": 189,
+        "y": 111,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Human-Centered",
+        "x": 205,
+        "y": 111,
+        "width": 76,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Artificial",
+        "x": 284,
+        "y": 111,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Intelligence",
+        "x": 326,
+        "y": 111,
+        "width": 51,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "(HAI)",
+        "x": 380,
+        "y": 112,
+        "width": 25,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "published",
+        "x": 408,
+        "y": 111,
+        "width": 42,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "its",
+        "x": 454,
+        "y": 113,
+        "width": 10,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "Artificial",
+        "x": 467,
+        "y": 111,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Intelligence",
+        "x": 90,
+        "y": 125,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "Index",
+        "x": 146,
+        "y": 125,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "(AD)",
+        "x": 175,
+        "y": 126,
+        "width": 17,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "in",
+        "x": 196,
+        "y": 128,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "2021",
+        "x": 208,
+        "y": 126,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "[1].",
+        "x": 233,
+        "y": 125,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 2,
+        "text": "According",
+        "x": 253,
+        "y": 125,
+        "width": 47,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 304,
+        "y": 127,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "their",
+        "x": 317,
+        "y": 125,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "findings,",
+        "x": 342,
+        "y": 125,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 385,
+        "y": 125,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "demand",
+        "x": 402,
+        "y": 125,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "for",
+        "x": 442,
+        "y": 125,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "labor",
+        "x": 459,
+        "y": 125,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "with",
+        "x": 486,
+        "y": 125,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "artificial",
+        "x": 90,
+        "y": 139,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "ntlligence",
+        "x": 128,
+        "y": 139,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "ha",
+        "x": 181,
+        "y": 139,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "increased",
+        "x": 199,
+        "y": 139,
+        "width": 40,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "significantly.",
+        "x": 242,
+        "y": 139,
+        "width": 54,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "During",
+        "x": 301,
+        "y": 140,
+        "width": 31,
+        "height": 10
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 335,
+        "y": 139,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "pandemic,",
+        "x": 352,
+        "y": 129,
+        "width": 43,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "which",
+        "x": 401,
+        "y": 139,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "has",
+        "x": 428,
+        "y": 139,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "been",
+        "x": 445,
+        "y": 139,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "going",
+        "x": 468,
+        "y": 142,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "on",
+        "x": 495,
+        "y": 142,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "for",
+        "x": 90,
+        "y": 152,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "two",
+        "x": 105,
+        "y": 154,
+        "width": 16,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "years,",
+        "x": 125,
+        "y": 155,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "global",
+        "x": 153,
+        "y": 152,
+        "width": 26,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "investments",
+        "x": 182,
+        "y": 154,
+        "width": 52,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "in",
+        "x": 238,
+        "y": 155,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 249,
+        "y": 152,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "development",
+        "x": 266,
+        "y": 152,
+        "width": 56,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "ofthe",
+        "x": 325,
+        "y": 152,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "artificial",
+        "x": 353,
+        "y": 152,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "intelligence",
+        "x": 392,
+        "y": 152,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "industry",
+        "x": 446,
+        "y": 152,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "have",
+        "x": 486,
+        "y": 152,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "increased",
+        "x": 90,
+        "y": 166,
+        "width": 54,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "by",
+        "x": 135,
+        "y": 155,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "40%.",
+        "x": 149,
+        "y": 167,
+        "width": 16,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "The",
+        "x": 174,
+        "y": 166,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "world",
+        "x": 193,
+        "y": 155,
+        "width": 24,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "leaders",
+        "x": 221,
+        "y": 166,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "ate",
+        "x": 256,
+        "y": 169,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 273,
+        "y": 166,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "United",
+        "x": 289,
+        "y": 166,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "States",
+        "x": 322,
+        "y": 167,
+        "width": 26,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "and",
+        "x": 352,
+        "y": 166,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "China,",
+        "x": 371,
+        "y": 166,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "whose",
+        "x": 403,
+        "y": 166,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "investments",
+        "x": 435,
+        "y": 168,
+        "width": 54,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "are",
+        "x": 492,
+        "y": 169,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "‘more",
+        "x": 86,
+        "y": 168,
+        "width": 24,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "than",
+        "x": 114,
+        "y": 179,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "80%",
+        "x": 137,
+        "y": 168,
+        "width": 15,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 156,
+        "y": 168,
+        "width": 4,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "investments",
+        "x": 161,
+        "y": 179,
+        "width": 141,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "in",
+        "x": 221,
+        "y": 168,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "Aland",
+        "x": 235,
+        "y": 168,
+        "width": 24,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "blockchain",
+        "x": 263,
+        "y": 168,
+        "width": 47,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "development",
+        "x": 314,
+        "y": 179,
+        "width": 55,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "(2.",
+        "x": 373,
+        "y": 179,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 2,
+        "text": "This",
+        "x": 390,
+        "y": 179,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "attention",
+        "x": 420,
+        "y": 179,
+        "width": 86,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "i",
+        "x": 454,
+        "y": 168,
+        "width": 3,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "due",
+        "x": 464,
+        "y": 168,
+        "width": 14,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 482,
+        "y": 168,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 492,
+        "y": 168,
+        "width": 17,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "automation",
+        "x": 90,
+        "y": 195,
+        "width": 32,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 144,
+        "y": 193,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "processes,",
+        "x": 155,
+        "y": 193,
+        "width": 41,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 202,
+        "y": 193,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "use",
+        "x": 219,
+        "y": 193,
+        "width": 33,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 237,
+        "y": 183,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "artificial",
+        "x": 249,
+        "y": 183,
+        "width": 35,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "intelligence",
+        "x": 287,
+        "y": 183,
+        "width": 49,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "in",
+        "x": 340,
+        "y": 196,
+        "width": 10,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "business",
+        "x": 354,
+        "y": 183,
+        "width": 36,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "can",
+        "x": 394,
+        "y": 196,
+        "width": 12,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "inerease",
+        "x": 411,
+        "y": 183,
+        "width": 35,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "its",
+        "x": 450,
+        "y": 195,
+        "width": 10,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "efcieny,",
+        "x": 464,
+        "y": 183,
+        "width": 43,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "save",
+        "x": 90,
+        "y": 209,
+        "width": 18,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "time",
+        "x": 112,
+        "y": 208,
+        "width": 19,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "and",
+        "x": 135,
+        "y": 206,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "human",
+        "x": 153,
+        "y": 196,
+        "width": 29,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "resources.",
+        "x": 181,
+        "y": 206,
+        "width": 47,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Over",
+        "x": 234,
+        "y": 206,
+        "width": 59,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 258,
+        "y": 196,
+        "width": 13,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "past",
+        "x": 277,
+        "y": 206,
+        "width": 16,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "10",
+        "x": 298,
+        "y": 207,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "years,",
+        "x": 310,
+        "y": 196,
+        "width": 25,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 338,
+        "y": 206,
+        "width": 13,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "number",
+        "x": 355,
+        "y": 206,
+        "width": 59,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 391,
+        "y": 196,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "Ar-related",
+        "x": 418,
+        "y": 206,
+        "width": 11,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "research",
+        "x": 438,
+        "y": 206,
+        "width": 68,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "has",
+        "x": 492,
+        "y": 196,
+        "width": 17,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "Increased",
+        "x": 90,
+        "y": 220,
+        "width": 41,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "from",
+        "x": 134,
+        "y": 220,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "14.2%",
+        "x": 159,
+        "y": 221,
+        "width": 23,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 185,
+        "y": 222,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "about",
+        "x": 197,
+        "y": 220,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "28%",
+        "x": 224,
+        "y": 221,
+        "width": 17,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "as",
+        "x": 244,
+        "y": 223,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 256,
+        "y": 210,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "2019.",
+        "x": 267,
+        "y": 220,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Among",
+        "x": 293,
+        "y": 221,
+        "width": 32,
+        "height": 10
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 329,
+        "y": 220,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "research,",
+        "x": 345,
+        "y": 220,
+        "width": 39,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "there",
+        "x": 388,
+        "y": 220,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "are",
+        "x": 413,
+        "y": 223,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "publications",
+        "x": 430,
+        "y": 220,
+        "width": 53,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "with",
+        "x": 486,
+        "y": 220,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "keywords",
+        "x": 90,
+        "y": 233,
+        "width": 42,
+        "height": 10
+    },
+    {
+        "page": 2,
+        "text": "about",
+        "x": 136,
+        "y": 233,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 164,
+        "y": 233,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "ethics",
+        "x": 181,
+        "y": 233,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 210,
+        "y": 222,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "artificial",
+        "x": 215,
+        "y": 233,
+        "width": 43,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "intelligence.",
+        "x": 261,
+        "y": 233,
+        "width": 51,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "‘Such",
+        "x": 100,
+        "y": 247,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "growth",
+        "x": 126,
+        "y": 247,
+        "width": 29,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "sfaiitated",
+        "x": 157,
+        "y": 247,
+        "width": 51,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "by:",
+        "x": 212,
+        "y": 237,
+        "width": 13,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "powerful",
+        "x": 229,
+        "y": 237,
+        "width": 37,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "ompating",
+        "x": 271,
+        "y": 237,
+        "width": 42,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "solutions,",
+        "x": 317,
+        "y": 237,
+        "width": 42,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 362,
+        "y": 237,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "development",
+        "x": 378,
+        "y": 237,
+        "width": 54,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 435,
+        "y": 247,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "cloud",
+        "x": 446,
+        "y": 237,
+        "width": 21,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "services",
+        "x": 472,
+        "y": 250,
+        "width": 34,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "and",
+        "x": 90,
+        "y": 261,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "aceess",
+        "x": 109,
+        "y": 264,
+        "width": 27,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 139,
+        "y": 263,
+        "width": 16,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "a",
+        "x": 151,
+        "y": 251,
+        "width": 5,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "huge",
+        "x": 159,
+        "y": 261,
+        "width": 21,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "amount",
+        "x": 184,
+        "y": 263,
+        "width": 33,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 221,
+        "y": 261,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "open",
+        "x": 232,
+        "y": 261,
+        "width": 22,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "data.",
+        "x": 257,
+        "y": 261,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Despite",
+        "x": 282,
+        "y": 262,
+        "width": 33,
+        "height": 10
+    },
+    {
+        "page": 2,
+        "text": "fears",
+        "x": 318,
+        "y": 261,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "frustrations,",
+        "x": 345,
+        "y": 261,
+        "width": 54,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "misunderstandings",
+        "x": 402,
+        "y": 261,
+        "width": 84,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "and",
+        "x": 490,
+        "y": 261,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "“winter”",
+        "x": 88,
+        "y": 274,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "in",
+        "x": 130,
+        "y": 277,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "Al",
+        "x": 142,
+        "y": 275,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "research,",
+        "x": 156,
+        "y": 274,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 200,
+        "y": 274,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "level",
+        "x": 217,
+        "y": 274,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 242,
+        "y": 263,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "acceptance",
+        "x": 253,
+        "y": 274,
+        "width": 49,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 305,
+        "y": 263,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "artificial",
+        "x": 311,
+        "y": 274,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "intelligence",
+        "x": 358,
+        "y": 274,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "is",
+        "x": 414,
+        "y": 277,
+        "width": 6,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "increasing",
+        "x": 424,
+        "y": 277,
+        "width": 46,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "rapidly",
+        "x": 489,
+        "y": 274,
+        "width": 15,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "‘Canada",
+        "x": 85,
+        "y": 277,
+        "width": 35,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "published",
+        "x": 124,
+        "y": 277,
+        "width": 41,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 169,
+        "y": 288,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "worlds",
+        "x": 187,
+        "y": 277,
+        "width": 29,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "ist",
+        "x": 220,
+        "y": 288,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "national",
+        "x": 241,
+        "y": 277,
+        "width": 33,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "A",
+        "x": 278,
+        "y": 289,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "strategy",
+        "x": 290,
+        "y": 277,
+        "width": 33,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "in",
+        "x": 327,
+        "y": 277,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "2017.",
+        "x": 339,
+        "y": 277,
+        "width": 18,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "More",
+        "x": 365,
+        "y": 289,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "than",
+        "x": 388,
+        "y": 288,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "30",
+        "x": 411,
+        "y": 289,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "ther",
+        "x": 423,
+        "y": 277,
+        "width": 22,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "countries",
+        "x": 447,
+        "y": 288,
+        "width": 59,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "and",
+        "x": 491,
+        "y": 277,
+        "width": 19,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "regions",
+        "x": 90,
+        "y": 304,
+        "width": 32,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "have",
+        "x": 126,
+        "y": 301,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "published",
+        "x": 150,
+        "y": 301,
+        "width": 43,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "similar",
+        "x": 196,
+        "y": 301,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "documents",
+        "x": 230,
+        "y": 301,
+        "width": 121,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "as",
+        "x": 282,
+        "y": 290,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 296,
+        "y": 290,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "December",
+        "x": 310,
+        "y": 301,
+        "width": 40,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "2020.",
+        "x": 355,
+        "y": 302,
+        "width": 20,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "At",
+        "x": 381,
+        "y": 302,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 395,
+        "y": 301,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "same",
+        "x": 412,
+        "y": 304,
+        "width": 22,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "time,",
+        "x": 438,
+        "y": 303,
+        "width": 19,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "humanity",
+        "x": 463,
+        "y": 301,
+        "width": 43,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "has",
+        "x": 90,
+        "y": 315,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "come",
+        "x": 109,
+        "y": 318,
+        "width": 23,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 137,
+        "y": 317,
+        "width": 9,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "understand",
+        "x": 150,
+        "y": 315,
+        "width": 51,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 206,
+        "y": 315,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "risks",
+        "x": 224,
+        "y": 315,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "posed",
+        "x": 249,
+        "y": 315,
+        "width": 40,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "by",
+        "x": 279,
+        "y": 304,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 296,
+        "y": 315,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Al",
+        "x": 314,
+        "y": 304,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "introduction.",
+        "x": 329,
+        "y": 315,
+        "width": 56,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Therefore,",
+        "x": 394,
+        "y": 315,
+        "width": 45,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "countries",
+        "x": 446,
+        "y": 317,
+        "width": 41,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "are",
+        "x": 492,
+        "y": 318,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "beginning",
+        "x": 90,
+        "y": 328,
+        "width": 56,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 137,
+        "y": 318,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "introduce",
+        "x": 150,
+        "y": 328,
+        "width": 42,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "regulatory",
+        "x": 196,
+        "y": 328,
+        "width": 45,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "documents",
+        "x": 246,
+        "y": 328,
+        "width": 48,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "that",
+        "x": 298,
+        "y": 328,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "will",
+        "x": 319,
+        "y": 328,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "help",
+        "x": 338,
+        "y": 328,
+        "width": 19,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "limit",
+        "x": 361,
+        "y": 328,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "its",
+        "x": 385,
+        "y": 330,
+        "width": 10,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "use.",
+        "x": 398,
+        "y": 331,
+        "width": 15,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "For",
+        "x": 419,
+        "y": 329,
+        "width": 14,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "example,",
+        "x": 436,
+        "y": 328,
+        "width": 40,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "China",
+        "x": 479,
+        "y": 328,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "and",
+        "x": 90,
+        "y": 342,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Shat",
+        "x": 109,
+        "y": 342,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "California",
+        "x": 131,
+        "y": 342,
+        "width": 45,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "have",
+        "x": 179,
+        "y": 342,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "introduced",
+        "x": 204,
+        "y": 342,
+        "width": 55,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "law",
+        "x": 263,
+        "y": 342,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 282,
+        "y": 344,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "punish",
+        "x": 293,
+        "y": 342,
+        "width": 30,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "people",
+        "x": 327,
+        "y": 342,
+        "width": 29,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "for",
+        "x": 360,
+        "y": 342,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "misleading",
+        "x": 375,
+        "y": 342,
+        "width": 49,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "people",
+        "x": 427,
+        "y": 342,
+        "width": 29,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "with",
+        "x": 460,
+        "y": 342,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Deep",
+        "x": 483,
+        "y": 343,
+        "width": 23,
+        "height": 10
+    },
+    {
+        "page": 2,
+        "text": "Fake",
+        "x": 90,
+        "y": 355,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "technology:",
+        "x": 114,
+        "y": 355,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "any",
+        "x": 172,
+        "y": 358,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "videos",
+        "x": 192,
+        "y": 355,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "or",
+        "x": 224,
+        "y": 358,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "photos",
+        "x": 237,
+        "y": 355,
+        "width": 30,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "that",
+        "x": 271,
+        "y": 355,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "carry",
+        "x": 292,
+        "y": 358,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "manipulation",
+        "x": 319,
+        "y": 355,
+        "width": 60,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "or",
+        "x": 383,
+        "y": 358,
+        "width": 10,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "misinformation",
+        "x": 396,
+        "y": 355,
+        "width": 70,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "must",
+        "x": 470,
+        "y": 357,
+        "width": 22,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "be",
+        "x": 496,
+        "y": 355,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "labeled",
+        "x": 90,
+        "y": 369,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "accordingly.",
+        "x": 124,
+        "y": 369,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "In",
+        "x": 180,
+        "y": 370,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "mid-April",
+        "x": 192,
+        "y": 369,
+        "width": 42,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "202,",
+        "x": 237,
+        "y": 370,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 262,
+        "y": 369,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "European",
+        "x": 279,
+        "y": 370,
+        "width": 42,
+        "height": 10
+    },
+    {
+        "page": 2,
+        "text": "Commission",
+        "x": 324,
+        "y": 370,
+        "width": 55,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "published",
+        "x": 382,
+        "y": 369,
+        "width": 77,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "a",
+        "x": 429,
+        "y": 359,
+        "width": 3,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "Regulation",
+        "x": 436,
+        "y": 369,
+        "width": 46,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "daft",
+        "x": 485,
+        "y": 369,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "‘governing",
+        "x": 89,
+        "y": 385,
+        "width": 46,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 139,
+        "y": 382,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "use",
+        "x": 156,
+        "y": 385,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 174,
+        "y": 372,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "artificial",
+        "x": 179,
+        "y": 382,
+        "width": 43,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "intelligence",
+        "x": 226,
+        "y": 382,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "[3].",
+        "x": 282,
+        "y": 382,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 2,
+        "text": "The",
+        "x": 299,
+        "y": 382,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Regulation",
+        "x": 320,
+        "y": 382,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "applies",
+        "x": 372,
+        "y": 382,
+        "width": 38,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "a",
+        "x": 407,
+        "y": 372,
+        "width": 3,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "risk-based",
+        "x": 414,
+        "y": 382,
+        "width": 46,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "approach,",
+        "x": 463,
+        "y": 382,
+        "width": 44,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "distinguishing",
+        "x": 90,
+        "y": 396,
+        "width": 63,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "between",
+        "x": 156,
+        "y": 396,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 196,
+        "y": 396,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Al",
+        "x": 213,
+        "y": 397,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "use",
+        "x": 227,
+        "y": 399,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "which",
+        "x": 245,
+        "y": 396,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "creates:",
+        "x": 275,
+        "y": 398,
+        "width": 30,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "+",
+        "x": 108,
+        "y": 425,
+        "width": 3,
+        "height": 3
+    },
+    {
+        "page": 2,
+        "text": "Unacceptable",
+        "x": 118,
+        "y": 421,
+        "width": 57,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "risk",
+        "x": 180,
+        "y": 421,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "~",
+        "x": 200,
+        "y": 426,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "page": 2,
+        "text": "includes",
+        "x": 210,
+        "y": 421,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "all",
+        "x": 252,
+        "y": 421,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "those",
+        "x": 267,
+        "y": 421,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "AL",
+        "x": 295,
+        "y": 422,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "systems",
+        "x": 310,
+        "y": 423,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "that",
+        "x": 350,
+        "y": 421,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "have",
+        "x": 372,
+        "y": 421,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "significant",
+        "x": 397,
+        "y": 421,
+        "width": 47,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "potential",
+        "x": 449,
+        "y": 421,
+        "width": 40,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "for",
+        "x": 493,
+        "y": 421,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "‘manipulating",
+        "x": 117,
+        "y": 435,
+        "width": 132,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "people",
+        "x": 183,
+        "y": 424,
+        "width": 26,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "through",
+        "x": 213,
+        "y": 435,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "subconscious",
+        "x": 253,
+        "y": 435,
+        "width": 59,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "techniques",
+        "x": 316,
+        "y": 424,
+        "width": 47,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "beyond",
+        "x": 369,
+        "y": 435,
+        "width": 29,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "their",
+        "x": 404,
+        "y": 435,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "consciousness,",
+        "x": 428,
+        "y": 438,
+        "width": 63,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 497,
+        "y": 438,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "exploiting",
+        "x": 117,
+        "y": 449,
+        "width": 81,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 164,
+        "y": 438,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "vulnerabilities",
+        "x": 208,
+        "y": 449,
+        "width": 63,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 243,
+        "y": 438,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "certain",
+        "x": 255,
+        "y": 449,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "vulnerable",
+        "x": 290,
+        "y": 438,
+        "width": 43,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "groups,",
+        "x": 337,
+        "y": 438,
+        "width": 31,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "such",
+        "x": 372,
+        "y": 438,
+        "width": 19,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "as",
+        "x": 395,
+        "y": 452,
+        "width": 7,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "children",
+        "x": 405,
+        "y": 438,
+        "width": 35,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "or",
+        "x": 444,
+        "y": 452,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "people",
+        "x": 456,
+        "y": 438,
+        "width": 26,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "with",
+        "x": 486,
+        "y": 438,
+        "width": 20,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "disabilities,",
+        "x": 117,
+        "y": 462,
+        "width": 49,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "in",
+        "x": 170,
+        "y": 465,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "order",
+        "x": 183,
+        "y": 452,
+        "width": 21,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 208,
+        "y": 452,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "significantly",
+        "x": 219,
+        "y": 462,
+        "width": 55,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "distor",
+        "x": 277,
+        "y": 462,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "their",
+        "x": 309,
+        "y": 462,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "bchavior",
+        "x": 333,
+        "y": 462,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "in",
+        "x": 375,
+        "y": 465,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "such",
+        "x": 387,
+        "y": 462,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "a",
+        "x": 411,
+        "y": 452,
+        "width": 3,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "way",
+        "x": 418,
+        "y": 465,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "that",
+        "x": 439,
+        "y": 462,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "may",
+        "x": 460,
+        "y": 465,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "cause",
+        "x": 482,
+        "y": 465,
+        "width": 23,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "them",
+        "x": 117,
+        "y": 476,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "or",
+        "x": 143,
+        "y": 479,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "other",
+        "x": 156,
+        "y": 476,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "psychological",
+        "x": 183,
+        "y": 476,
+        "width": 61,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "or",
+        "x": 248,
+        "y": 479,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "physical",
+        "x": 261,
+        "y": 476,
+        "width": 37,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "harm",
+        "x": 301,
+        "y": 476,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 328,
+        "y": 478,
+        "width": 9,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 340,
+        "y": 476,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "person",
+        "x": 358,
+        "y": 479,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "I",
+        "x": 395,
+        "y": 477,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "also",
+        "x": 405,
+        "y": 476,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "includes",
+        "x": 426,
+        "y": 476,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "AC-based.",
+        "x": 466,
+        "y": 476,
+        "width": 40,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "scores",
+        "x": 117,
+        "y": 492,
+        "width": 27,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "for",
+        "x": 148,
+        "y": 489,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "general",
+        "x": 163,
+        "y": 489,
+        "width": 33,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "purposes,",
+        "x": 199,
+        "y": 492,
+        "width": 43,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "real-time",
+        "x": 245,
+        "y": 489,
+        "width": 40,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "biometric",
+        "x": 289,
+        "y": 489,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "identification",
+        "x": 335,
+        "y": 489,
+        "width": 59,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "systems",
+        "x": 397,
+        "y": 491,
+        "width": 35,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "in",
+        "x": 436,
+        "y": 492,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "public",
+        "x": 447,
+        "y": 489,
+        "width": 27,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "places,",
+        "x": 478,
+        "y": 489,
+        "width": 29,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "‘High",
+        "x": 117,
+        "y": 518,
+        "width": 20,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "risk",
+        "x": 141,
+        "y": 518,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "~",
+        "x": 159,
+        "y": 523,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "page": 2,
+        "text": "systems",
+        "x": 167,
+        "y": 518,
+        "width": 45,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "that",
+        "x": 204,
+        "y": 507,
+        "width": 17,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "pose",
+        "x": 235,
+        "y": 521,
+        "width": 15,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "a",
+        "x": 246,
+        "y": 507,
+        "width": 3,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "high",
+        "x": 253,
+        "y": 507,
+        "width": 19,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "potential",
+        "x": 275,
+        "y": 518,
+        "width": 38,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "ik",
+        "x": 318,
+        "y": 518,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "tothe",
+        "x": 335,
+        "y": 507,
+        "width": 23,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "health",
+        "x": 364,
+        "y": 507,
+        "width": 25,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "and",
+        "x": 393,
+        "y": 518,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "safety",
+        "x": 411,
+        "y": 507,
+        "width": 24,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "or",
+        "x": 439,
+        "y": 521,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "fundamental",
+        "x": 451,
+        "y": 518,
+        "width": 55,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "rights",
+        "x": 117,
+        "y": 531,
+        "width": 26,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 147,
+        "y": 531,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "individuals.",
+        "x": 161,
+        "y": 531,
+        "width": 49,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "In",
+        "x": 220,
+        "y": 532,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "particular,",
+        "x": 233,
+        "y": 531,
+        "width": 44,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "these",
+        "x": 283,
+        "y": 531,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "are",
+        "x": 311,
+        "y": 534,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "technologies",
+        "x": 329,
+        "y": 531,
+        "width": 56,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "used",
+        "x": 390,
+        "y": 531,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "in",
+        "x": 415,
+        "y": 534,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "medicine,",
+        "x": 428,
+        "y": 531,
+        "width": 43,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "justice,",
+        "x": 475,
+        "y": 533,
+        "width": 32,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "employment",
+        "x": 117,
+        "y": 545,
+        "width": 55,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "‘Low",
+        "x": 113,
+        "y": 550,
+        "width": 21,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "or",
+        "x": 138,
+        "y": 563,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "minimal",
+        "x": 149,
+        "y": 560,
+        "width": 61,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "sk",
+        "x": 190,
+        "y": 550,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "~",
+        "x": 206,
+        "y": 550,
+        "width": 5,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "about",
+        "x": 214,
+        "y": 560,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "tools",
+        "x": 241,
+        "y": 560,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "suchas",
+        "x": 267,
+        "y": 550,
+        "width": 28,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "chat",
+        "x": 299,
+        "y": 550,
+        "width": 17,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "bots,",
+        "x": 320,
+        "y": 560,
+        "width": 20,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "spam",
+        "x": 343,
+        "y": 563,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "filters,",
+        "x": 369,
+        "y": 560,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "muse",
+        "x": 399,
+        "y": 563,
+        "width": 25,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "recommendations,",
+        "x": 427,
+        "y": 560,
+        "width": 80,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "“The",
+        "x": 96,
+        "y": 589,
+        "width": 21,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "main",
+        "x": 121,
+        "y": 589,
+        "width": 20,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "issue",
+        "x": 145,
+        "y": 602,
+        "width": 21,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "is",
+        "x": 169,
+        "y": 602,
+        "width": 6,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "users",
+        "x": 179,
+        "y": 599,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "understanding",
+        "x": 207,
+        "y": 599,
+        "width": 63,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "they",
+        "x": 273,
+        "y": 599,
+        "width": 19,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "ae",
+        "x": 295,
+        "y": 602,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "interacting",
+        "x": 311,
+        "y": 589,
+        "width": 47,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "with",
+        "x": 362,
+        "y": 589,
+        "width": 18,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 384,
+        "y": 599,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "machine,",
+        "x": 400,
+        "y": 599,
+        "width": 39,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "not",
+        "x": 442,
+        "y": 601,
+        "width": 14,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 459,
+        "y": 599,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "person,",
+        "x": 476,
+        "y": 602,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "leis",
+        "x": 101,
+        "y": 613,
+        "width": 15,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "not",
+        "x": 120,
+        "y": 614,
+        "width": 14,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "entirely",
+        "x": 137,
+        "y": 612,
+        "width": 34,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "clear",
+        "x": 174,
+        "y": 612,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 198,
+        "y": 614,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "what",
+        "x": 209,
+        "y": 612,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "extent",
+        "x": 234,
+        "y": 614,
+        "width": 27,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "this",
+        "x": 265,
+        "y": 612,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "wil",
+        "x": 284,
+        "y": 612,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "affect",
+        "x": 303,
+        "y": 612,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 330,
+        "y": 612,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "scope",
+        "x": 347,
+        "y": 612,
+        "width": 51,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 374,
+        "y": 601,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "AL",
+        "x": 388,
+        "y": 601,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 2,
+        "text": "It",
+        "x": 401,
+        "y": 613,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "will",
+        "x": 411,
+        "y": 612,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "alow",
+        "x": 430,
+        "y": 612,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 457,
+        "y": 614,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "form",
+        "x": 468,
+        "y": 612,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 492,
+        "y": 612,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "rules",
+        "x": 90,
+        "y": 626,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "on",
+        "x": 114,
+        "y": 629,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "which",
+        "x": 128,
+        "y": 626,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "AL",
+        "x": 158,
+        "y": 627,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "further",
+        "x": 172,
+        "y": 626,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "development",
+        "x": 206,
+        "y": 626,
+        "width": 56,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "wil",
+        "x": 266,
+        "y": 626,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "be",
+        "x": 285,
+        "y": 626,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "base.",
+        "x": 298,
+        "y": 626,
+        "width": 33,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "wil",
+        "x": 338,
+        "y": 626,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "also",
+        "x": 357,
+        "y": 626,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "help",
+        "x": 378,
+        "y": 626,
+        "width": 18,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 400,
+        "y": 628,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "adequately",
+        "x": 411,
+        "y": 626,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "assess",
+        "x": 462,
+        "y": 629,
+        "width": 26,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "not",
+        "x": 492,
+        "y": 628,
+        "width": 13,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "only",
+        "x": 90,
+        "y": 639,
+        "width": 19,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 112,
+        "y": 639,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "benefits",
+        "x": 129,
+        "y": 639,
+        "width": 34,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "but",
+        "x": 167,
+        "y": 639,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 184,
+        "y": 639,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "risks",
+        "x": 201,
+        "y": 639,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 225,
+        "y": 639,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "such",
+        "x": 237,
+        "y": 639,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "systems",
+        "x": 260,
+        "y": 641,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "using.",
+        "x": 298,
+        "y": 642,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Ukraine",
+        "x": 101,
+        "y": 653,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "is",
+        "x": 141,
+        "y": 656,
+        "width": 6,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "moving",
+        "x": 152,
+        "y": 656,
+        "width": 34,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "in",
+        "x": 191,
+        "y": 656,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 2,
+        "text": "this",
+        "x": 204,
+        "y": 653,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "direction.",
+        "x": 224,
+        "y": 653,
+        "width": 40,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "The",
+        "x": 274,
+        "y": 653,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Association",
+        "x": 296,
+        "y": 654,
+        "width": 52,
+        "height": 7
+    },
+    {
+        "page": 2,
+        "text": "for",
+        "x": 353,
+        "y": 653,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 370,
+        "y": 653,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Development",
+        "x": 388,
+        "y": 653,
+        "width": 60,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 453,
+        "y": 653,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Artificial",
+        "x": 466,
+        "y": 653,
+        "width": 40,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "Intelligence",
+        "x": 90,
+        "y": 667,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "has",
+        "x": 145,
+        "y": 667,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "developed",
+        "x": 164,
+        "y": 667,
+        "width": 45,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "and",
+        "x": 212,
+        "y": 667,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "submitted",
+        "x": 232,
+        "y": 667,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "to",
+        "x": 280,
+        "y": 669,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 292,
+        "y": 667,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "government",
+        "x": 308,
+        "y": 669,
+        "width": 55,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "for",
+        "x": 366,
+        "y": 667,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "approval",
+        "x": 382,
+        "y": 667,
+        "width": 39,
+        "height": 11
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 425,
+        "y": 667,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "concept",
+        "x": 442,
+        "y": 669,
+        "width": 35,
+        "height": 9
+    },
+    {
+        "page": 2,
+        "text": "of",
+        "x": 480,
+        "y": 667,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 2,
+        "text": "the",
+        "x": 492,
+        "y": 667,
+        "width": 14,
+        "height": 8
+    }
+]

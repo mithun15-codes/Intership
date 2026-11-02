@@ -1,0 +1,3722 @@
+[
+    {
+        "page": 12,
+        "text": "literate,",
+        "x": 90,
+        "y": 87,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "It",
+        "x": 128,
+        "y": 88,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "does",
+        "x": 138,
+        "y": 87,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "not",
+        "x": 161,
+        "y": 89,
+        "width": 15,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "mean",
+        "x": 179,
+        "y": 90,
+        "width": 24,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 207,
+        "y": 87,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "ability",
+        "x": 225,
+        "y": 87,
+        "width": 28,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "to",
+        "x": 256,
+        "y": 89,
+        "width": 9,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "“program.",
+        "x": 268,
+        "y": 87,
+        "width": 45,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "It",
+        "x": 321,
+        "y": 88,
+        "width": 18,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "means",
+        "x": 350,
+        "y": 90,
+        "width": 10,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "understanding",
+        "x": 363,
+        "y": 87,
+        "width": 66,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 432,
+        "y": 87,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "principles",
+        "x": 449,
+        "y": 87,
+        "width": 45,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "of|",
+        "x": 497,
+        "y": 87,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "operation",
+        "x": 90,
+        "y": 103,
+        "width": 41,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 134,
+        "y": 101,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "using",
+        "x": 153,
+        "y": 104,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "technology",
+        "x": 180,
+        "y": 101,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "as",
+        "x": 231,
+        "y": 104,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "effectively",
+        "x": 243,
+        "y": 101,
+        "width": 94,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "as",
+        "x": 291,
+        "y": 91,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "possible",
+        "x": 303,
+        "y": 101,
+        "width": 34,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "tn",
+        "x": 343,
+        "y": 102,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "examples",
+        "x": 354,
+        "y": 101,
+        "width": 40,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 398,
+        "y": 101,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "daily",
+        "x": 409,
+        "y": 101,
+        "width": 21,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "activites,",
+        "x": 433,
+        "y": 103,
+        "width": 41,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "we",
+        "x": 477,
+        "y": 104,
+        "width": 12,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "see",
+        "x": 493,
+        "y": 104,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "‘manifestations",
+        "x": 90,
+        "y": 114,
+        "width": 63,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 157,
+        "y": 104,
+        "width": 6,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "chatbots,",
+        "x": 162,
+        "y": 114,
+        "width": 42,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "neural",
+        "x": 210,
+        "y": 114,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "networks,",
+        "x": 242,
+        "y": 104,
+        "width": 43,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "machine",
+        "x": 291,
+        "y": 114,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "learning,",
+        "x": 339,
+        "y": 117,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "So",
+        "x": 368,
+        "y": 104,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "far,",
+        "x": 381,
+        "y": 114,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "these",
+        "x": 398,
+        "y": 114,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "technologies",
+        "x": 424,
+        "y": 114,
+        "width": 82,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "ae",
+        "x": 482,
+        "y": 104,
+        "width": 13,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "in",
+        "x": 496,
+        "y": 104,
+        "width": 13,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "‘disparate",
+        "x": 90,
+        "y": 117,
+        "width": 45,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "state.",
+        "x": 139,
+        "y": 117,
+        "width": 24,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "But",
+        "x": 167,
+        "y": 129,
+        "width": 12,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "in",
+        "x": 181,
+        "y": 117,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 193,
+        "y": 128,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "future",
+        "x": 209,
+        "y": 117,
+        "width": 26,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "we",
+        "x": 240,
+        "y": 117,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "expect",
+        "x": 254,
+        "y": 117,
+        "width": 26,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "ther",
+        "x": 284,
+        "y": 128,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "integration",
+        "x": 307,
+        "y": 117,
+        "width": 48,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 359,
+        "y": 117,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "interaction",
+        "x": 376,
+        "y": 117,
+        "width": 46,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "-",
+        "x": 426,
+        "y": 133,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 433,
+        "y": 117,
+        "width": 14,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "development",
+        "x": 450,
+        "y": 128,
+        "width": 55,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 90,
+        "y": 141,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "so-ealed",
+        "x": 114,
+        "y": 141,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "“strong",
+        "x": 142,
+        "y": 141,
+        "width": 32,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "intelligence”",
+        "x": 177,
+        "y": 141,
+        "width": 54,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "[3].",
+        "x": 235,
+        "y": 141,
+        "width": 10,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "Being",
+        "x": 252,
+        "y": 142,
+        "width": 25,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "able",
+        "x": 280,
+        "y": 141,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "to",
+        "x": 301,
+        "y": 143,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "recognize",
+        "x": 312,
+        "y": 144,
+        "width": 41,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "their",
+        "x": 357,
+        "y": 141,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "work,",
+        "x": 380,
+        "y": 141,
+        "width": 25,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "know",
+        "x": 408,
+        "y": 141,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 435,
+        "y": 141,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "principles",
+        "x": 452,
+        "y": 141,
+        "width": 42,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "of.",
+        "x": 498,
+        "y": 141,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "their",
+        "x": 90,
+        "y": 155,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "operation,",
+        "x": 113,
+        "y": 157,
+        "width": 41,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "predict",
+        "x": 159,
+        "y": 155,
+        "width": 30,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 192,
+        "y": 155,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "consequences",
+        "x": 208,
+        "y": 158,
+        "width": 59,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 270,
+        "y": 155,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "use,",
+        "x": 281,
+        "y": 155,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "consciously",
+        "x": 300,
+        "y": 155,
+        "width": 67,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "use",
+        "x": 354,
+        "y": 144,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "-",
+        "x": 370,
+        "y": 144,
+        "width": 3,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "this",
+        "x": 377,
+        "y": 144,
+        "width": 17,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "is",
+        "x": 396,
+        "y": 144,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "a",
+        "x": 408,
+        "y": 158,
+        "width": 2,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "non-exhaustive",
+        "x": 413,
+        "y": 155,
+        "width": 66,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "list",
+        "x": 482,
+        "y": 155,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "of|",
+        "x": 498,
+        "y": 155,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "‘what",
+        "x": 89,
+        "y": 168,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "should",
+        "x": 114,
+        "y": 168,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "be",
+        "x": 146,
+        "y": 168,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "able",
+        "x": 158,
+        "y": 168,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "to",
+        "x": 179,
+        "y": 170,
+        "width": 7,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "a",
+        "x": 190,
+        "y": 171,
+        "width": 4,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "person",
+        "x": 197,
+        "y": 171,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "false",
+        "x": 230,
+        "y": 168,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "with",
+        "x": 260,
+        "y": 168,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 289,
+        "y": 168,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "technologies",
+        "x": 305,
+        "y": 168,
+        "width": 55,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 363,
+        "y": 157,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "artificial",
+        "x": 368,
+        "y": 168,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "intelligence.",
+        "x": 413,
+        "y": 168,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "Our",
+        "x": 469,
+        "y": 169,
+        "width": 17,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "task",
+        "x": 489,
+        "y": 168,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "‘was",
+        "x": 89,
+        "y": 185,
+        "width": 17,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "to",
+        "x": 109,
+        "y": 184,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "consider",
+        "x": 120,
+        "y": 182,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 159,
+        "y": 182,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "available",
+        "x": 175,
+        "y": 182,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "cloud",
+        "x": 216,
+        "y": 182,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "resources",
+        "x": 243,
+        "y": 185,
+        "width": 40,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "that",
+        "x": 286,
+        "y": 182,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "allow",
+        "x": 306,
+        "y": 182,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "classes",
+        "x": 332,
+        "y": 182,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "fr",
+        "x": 364,
+        "y": 182,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "students",
+        "x": 379,
+        "y": 182,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 418,
+        "y": 182,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "different",
+        "x": 429,
+        "y": 182,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "ages",
+        "x": 469,
+        "y": 185,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "and.",
+        "x": 490,
+        "y": 182,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "for",
+        "x": 90,
+        "y": 196,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "diferent",
+        "x": 105,
+        "y": 196,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "classes,",
+        "x": 144,
+        "y": 196,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "not",
+        "x": 179,
+        "y": 198,
+        "width": 13,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "only",
+        "x": 198,
+        "y": 196,
+        "width": 17,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "computer",
+        "x": 219,
+        "y": 185,
+        "width": 40,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "science.",
+        "x": 262,
+        "y": 199,
+        "width": 30,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "We",
+        "x": 298,
+        "y": 197,
+        "width": 14,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "also",
+        "x": 315,
+        "y": 196,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "found",
+        "x": 335,
+        "y": 196,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "that",
+        "x": 362,
+        "y": 196,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "some",
+        "x": 382,
+        "y": 199,
+        "width": 22,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "ofthese",
+        "x": 407,
+        "y": 196,
+        "width": 34,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "tools",
+        "x": 444,
+        "y": 196,
+        "width": 61,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "ae",
+        "x": 468,
+        "y": 185,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "furly",
+        "x": 482,
+        "y": 196,
+        "width": 23,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "‘easy",
+        "x": 89,
+        "y": 209,
+        "width": 66,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "to",
+        "x": 110,
+        "y": 199,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "use",
+        "x": 124,
+        "y": 199,
+        "width": 13,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 141,
+        "y": 199,
+        "width": 14,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "can",
+        "x": 159,
+        "y": 212,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "be",
+        "x": 176,
+        "y": 199,
+        "width": 9,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "used",
+        "x": 189,
+        "y": 209,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "as",
+        "x": 211,
+        "y": 212,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "a",
+        "x": 225,
+        "y": 212,
+        "width": 2,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "means",
+        "x": 230,
+        "y": 212,
+        "width": 27,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 260,
+        "y": 199,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "generating",
+        "x": 266,
+        "y": 209,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "tasks",
+        "x": 321,
+        "y": 209,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "in",
+        "x": 344,
+        "y": 199,
+        "width": 9,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "clases",
+        "x": 356,
+        "y": 209,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "in",
+        "x": 389,
+        "y": 212,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "at,",
+        "x": 400,
+        "y": 211,
+        "width": 14,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "ethics,",
+        "x": 417,
+        "y": 209,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "itrature",
+        "x": 447,
+        "y": 209,
+        "width": 40,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 490,
+        "y": 209,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "other",
+        "x": 90,
+        "y": 223,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "school",
+        "x": 116,
+        "y": 212,
+        "width": 28,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "subjects",
+        "x": 148,
+        "y": 212,
+        "width": 34,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "that",
+        "x": 186,
+        "y": 212,
+        "width": 14,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "are",
+        "x": 207,
+        "y": 212,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "not",
+        "x": 223,
+        "y": 225,
+        "width": 15,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "related",
+        "x": 242,
+        "y": 212,
+        "width": 29,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "tothe",
+        "x": 275,
+        "y": 223,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "natural",
+        "x": 305,
+        "y": 212,
+        "width": 29,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "sciences.",
+        "x": 337,
+        "y": 212,
+        "width": 41,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "So",
+        "x": 380,
+        "y": 224,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "cloud",
+        "x": 396,
+        "y": 223,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "technologies",
+        "x": 423,
+        "y": 223,
+        "width": 83,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "allow",
+        "x": 482,
+        "y": 212,
+        "width": 27,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "to",
+        "x": 90,
+        "y": 238,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "form",
+        "x": 101,
+        "y": 236,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "technological",
+        "x": 126,
+        "y": 236,
+        "width": 59,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "literacy",
+        "x": 188,
+        "y": 236,
+        "width": 33,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "in",
+        "x": 225,
+        "y": 239,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "children",
+        "x": 236,
+        "y": 236,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "ofan",
+        "x": 276,
+        "y": 236,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "early",
+        "x": 301,
+        "y": 239,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "school",
+        "x": 318,
+        "y": 236,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "age.",
+        "x": 358,
+        "y": 239,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "The",
+        "x": 378,
+        "y": 236,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "knowledge",
+        "x": 399,
+        "y": 236,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "formation",
+        "x": 450,
+        "y": 236,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "in",
+        "x": 497,
+        "y": 239,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "fundamental",
+        "x": 90,
+        "y": 250,
+        "width": 55,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "subjects",
+        "x": 149,
+        "y": 250,
+        "width": 35,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "requires",
+        "x": 187,
+        "y": 253,
+        "width": 69,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "a",
+        "x": 228,
+        "y": 239,
+        "width": 3,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "more",
+        "x": 237,
+        "y": 253,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "formalized",
+        "x": 260,
+        "y": 250,
+        "width": 47,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "approach",
+        "x": 310,
+        "y": 250,
+        "width": 41,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 354,
+        "y": 250,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "performance",
+        "x": 373,
+        "y": 250,
+        "width": 56,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 433,
+        "y": 239,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "tasks",
+        "x": 445,
+        "y": 250,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "on",
+        "x": 470,
+        "y": 253,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "large",
+        "x": 484,
+        "y": 250,
+        "width": 21,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "data",
+        "x": 90,
+        "y": 263,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "sets.",
+        "x": 112,
+        "y": 265,
+        "width": 16,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "There",
+        "x": 134,
+        "y": 263,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "are",
+        "x": 163,
+        "y": 266,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "resources",
+        "x": 180,
+        "y": 266,
+        "width": 42,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "allowed",
+        "x": 225,
+        "y": 263,
+        "width": 87,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "to",
+        "x": 263,
+        "y": 252,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "conser",
+        "x": 275,
+        "y": 263,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 315,
+        "y": 263,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "construction",
+        "x": 332,
+        "y": 265,
+        "width": 56,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 392,
+        "y": 263,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "operation",
+        "x": 411,
+        "y": 265,
+        "width": 43,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 457,
+        "y": 252,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "artifical",
+        "x": 463,
+        "y": 263,
+        "width": 43,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "intelligence",
+        "x": 90,
+        "y": 277,
+        "width": 51,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "algorithms.",
+        "x": 145,
+        "y": 277,
+        "width": 47,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "Their",
+        "x": 198,
+        "y": 277,
+        "width": 32,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "analysis",
+        "x": 242,
+        "y": 277,
+        "width": 19,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 265,
+        "y": 277,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "development",
+        "x": 284,
+        "y": 277,
+        "width": 58,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 345,
+        "y": 266,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "a",
+        "x": 356,
+        "y": 277,
+        "width": 5,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "course",
+        "x": 364,
+        "y": 277,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "forthe",
+        "x": 397,
+        "y": 277,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "study",
+        "x": 430,
+        "y": 277,
+        "width": 24,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 457,
+        "y": 277,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "artifical",
+        "x": 482,
+        "y": 277,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "intelligence",
+        "x": 90,
+        "y": 290,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "for",
+        "x": 144,
+        "y": 290,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "adolescents,",
+        "x": 160,
+        "y": 290,
+        "width": 50,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 216,
+        "y": 290,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "purpose",
+        "x": 233,
+        "y": 293,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 272,
+        "y": 290,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "our",
+        "x": 283,
+        "y": 290,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "next",
+        "x": 301,
+        "y": 292,
+        "width": 19,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "research,",
+        "x": 324,
+        "y": 290,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "References",
+        "x": 90,
+        "y": 323,
+        "width": 70,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "[1]",
+        "x": 95,
+        "y": 349,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "D.",
+        "x": 113,
+        "y": 350,
+        "width": 7,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Zhang,",
+        "x": 127,
+        "y": 349,
+        "width": 31,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "S.",
+        "x": 163,
+        "y": 350,
+        "width": 5,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Misha,",
+        "x": 175,
+        "y": 349,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "E.",
+        "x": 213,
+        "y": 350,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Brynjolfsson,",
+        "x": 226,
+        "y": 349,
+        "width": 57,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "J",
+        "x": 289,
+        "y": 350,
+        "width": 4,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "Etchemendy:",
+        "x": 300,
+        "y": 349,
+        "width": 58,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "D.",
+        "x": 363,
+        "y": 350,
+        "width": 7,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Ganguli",
+        "x": 376,
+        "y": 349,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "B.",
+        "x": 422,
+        "y": 339,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "Grosz,",
+        "x": 432,
+        "y": 350,
+        "width": 26,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "T",
+        "x": 469,
+        "y": 350,
+        "width": 3,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Lyons,",
+        "x": 478,
+        "y": 350,
+        "width": 29,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "J.Manyika,",
+        "x": 112,
+        "y": 364,
+        "width": 38,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "J.C.",
+        "x": 166,
+        "y": 364,
+        "width": 16,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "Niles,",
+        "x": 188,
+        "y": 363,
+        "width": 35,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "Mt",
+        "x": 227,
+        "y": 364,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Sellito,",
+        "x": 241,
+        "y": 363,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "Shoham,",
+        "x": 289,
+        "y": 363,
+        "width": 45,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "J.",
+        "x": 332,
+        "y": 353,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "Clark,",
+        "x": 340,
+        "y": 363,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "R.",
+        "x": 370,
+        "y": 364,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Perrault,",
+        "x": 382,
+        "y": 363,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "The",
+        "x": 423,
+        "y": 363,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "AI",
+        "x": 446,
+        "y": 353,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "Index",
+        "x": 461,
+        "y": 363,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "2021,",
+        "x": 486,
+        "y": 364,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "‘Annual",
+        "x": 109,
+        "y": 366,
+        "width": 35,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "Report,",
+        "x": 151,
+        "y": 366,
+        "width": 29,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "2021.",
+        "x": 186,
+        "y": 366,
+        "width": 21,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "axxiv:2103.06312.",
+        "x": 209,
+        "y": 377,
+        "width": 94,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "[2]",
+        "x": 95,
+        "y": 390,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "G.",
+        "x": 113,
+        "y": 391,
+        "width": 7,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Rican,",
+        "x": 126,
+        "y": 391,
+        "width": 26,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "J.",
+        "x": 157,
+        "y": 391,
+        "width": 4,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "Gonzalez,",
+        "x": 166,
+        "y": 390,
+        "width": 54,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "V.",
+        "x": 214,
+        "y": 380,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "Papanikolaou,",
+        "x": 225,
+        "y": 390,
+        "width": 74,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "H.",
+        "x": 294,
+        "y": 380,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "Santer,",
+        "x": 304,
+        "y": 391,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "Flat,",
+        "x": 348,
+        "y": 390,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "N.",
+        "x": 376,
+        "y": 391,
+        "width": 7,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Sarvs,",
+        "x": 389,
+        "y": 391,
+        "width": 25,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "P.",
+        "x": 420,
+        "y": 391,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "V.",
+        "x": 431,
+        "y": 391,
+        "width": 7,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Daele,",
+        "x": 442,
+        "y": 390,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "W.",
+        "x": 473,
+        "y": 391,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Ta",
+        "x": 487,
+        "y": 391,
+        "width": 17,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "cmnier,",
+        "x": 113,
+        "y": 406,
+        "width": 27,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "The",
+        "x": 146,
+        "y": 403,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "next",
+        "x": 167,
+        "y": 405,
+        "width": 19,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "generation",
+        "x": 189,
+        "y": 405,
+        "width": 48,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "internet",
+        "x": 241,
+        "y": 405,
+        "width": 35,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "initiative,",
+        "x": 280,
+        "y": 405,
+        "width": 40,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "in:",
+        "x": 327,
+        "y": 406,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "S.",
+        "x": 342,
+        "y": 404,
+        "width": 5,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Kessova,",
+        "x": 353,
+        "y": 403,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "8.",
+        "x": 398,
+        "y": 393,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "Engel,",
+        "x": 408,
+        "y": 403,
+        "width": 43,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "M.Botterman,",
+        "x": 457,
+        "y": 404,
+        "width": 50,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "4J.Cave",
+        "x": 112,
+        "y": 418,
+        "width": 30,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "Eds),",
+        "x": 146,
+        "y": 417,
+        "width": 75,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "ICT",
+        "x": 175,
+        "y": 407,
+        "width": 15,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "Policy,",
+        "x": 194,
+        "y": 417,
+        "width": 27,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "Research,",
+        "x": 226,
+        "y": 417,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 270,
+        "y": 417,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "Innovation:",
+        "x": 289,
+        "y": 418,
+        "width": 46,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Perspectives",
+        "x": 342,
+        "y": 418,
+        "width": 53,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 399,
+        "y": 417,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "Prospects",
+        "x": 418,
+        "y": 417,
+        "width": 88,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "for",
+        "x": 462,
+        "y": 407,
+        "width": 13,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "EU-US",
+        "x": 479,
+        "y": 417,
+        "width": 27,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "Collaboration,",
+        "x": 113,
+        "y": 430,
+        "width": 63,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "Wily,",
+        "x": 179,
+        "y": 430,
+        "width": 28,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "2020,",
+        "x": 210,
+        "y": 431,
+        "width": 20,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "pp.",
+        "x": 236,
+        "y": 433,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "217-253",
+        "x": 252,
+        "y": 431,
+        "width": 36,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "[2]",
+        "x": 95,
+        "y": 444,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "Opinion",
+        "x": 113,
+        "y": 445,
+        "width": 36,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "ofthe",
+        "x": 153,
+        "y": 444,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "European",
+        "x": 182,
+        "y": 445,
+        "width": 43,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "Economic",
+        "x": 228,
+        "y": 445,
+        "width": 44,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 275,
+        "y": 444,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "Social",
+        "x": 295,
+        "y": 444,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "Committee",
+        "x": 324,
+        "y": 445,
+        "width": 50,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "on",
+        "x": 377,
+        "y": 447,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "Proposal",
+        "x": 392,
+        "y": 444,
+        "width": 38,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "for",
+        "x": 434,
+        "y": 444,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "a",
+        "x": 450,
+        "y": 447,
+        "width": 4,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "Regulation",
+        "x": 457,
+        "y": 444,
+        "width": 49,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "ofthe",
+        "x": 113,
+        "y": 457,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "European",
+        "x": 142,
+        "y": 458,
+        "width": 43,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "Patliament",
+        "x": 188,
+        "y": 457,
+        "width": 49,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 241,
+        "y": 457,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 260,
+        "y": 446,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 266,
+        "y": 457,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "Council",
+        "x": 289,
+        "y": 457,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "laying",
+        "x": 327,
+        "y": 457,
+        "width": 28,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "down",
+        "x": 358,
+        "y": 457,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "harmonised",
+        "x": 387,
+        "y": 457,
+        "width": 53,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "rules",
+        "x": 443,
+        "y": 457,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "on",
+        "x": 468,
+        "y": 460,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "arti",
+        "x": 482,
+        "y": 457,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "cial",
+        "x": 113,
+        "y": 471,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "intelligence",
+        "x": 131,
+        "y": 471,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "(Artificial",
+        "x": 187,
+        "y": 471,
+        "width": 42,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "Intelligence",
+        "x": 233,
+        "y": 471,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "Act)",
+        "x": 288,
+        "y": 472,
+        "width": 19,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "and",
+        "x": 310,
+        "y": 471,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "amending",
+        "x": 329,
+        "y": 471,
+        "width": 45,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "certain",
+        "x": 377,
+        "y": 473,
+        "width": 31,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "union",
+        "x": 411,
+        "y": 474,
+        "width": 26,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "legislative",
+        "x": 440,
+        "y": 471,
+        "width": 45,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "acts",
+        "x": 489,
+        "y": 473,
+        "width": 17,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "(CoM(2021)",
+        "x": 113,
+        "y": 486,
+        "width": 52,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "206",
+        "x": 168,
+        "y": 486,
+        "width": 14,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "final",
+        "x": 185,
+        "y": 485,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "~2021/106",
+        "x": 207,
+        "y": 486,
+        "width": 48,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "(COD),",
+        "x": 258,
+        "y": 486,
+        "width": 30,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "Offical",
+        "x": 295,
+        "y": 475,
+        "width": 31,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "Journal",
+        "x": 330,
+        "y": 475,
+        "width": 29,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "ofthe",
+        "x": 363,
+        "y": 485,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "European",
+        "x": 390,
+        "y": 486,
+        "width": 41,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "Union",
+        "x": 434,
+        "y": 486,
+        "width": 26,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "517",
+        "x": 464,
+        "y": 486,
+        "width": 13,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "(2021)",
+        "x": 481,
+        "y": 486,
+        "width": 25,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "61-66,",
+        "x": 113,
+        "y": 499,
+        "width": 25,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "URL:",
+        "x": 144,
+        "y": 499,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "https",
+        "x": 169,
+        "y": 498,
+        "width": 22,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "eur-lex-europa",
+        "x": 201,
+        "y": 498,
+        "width": 78,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "eu/legal-content/EN/TXT/Muri-CELEX,",
+        "x": 283,
+        "y": 498,
+        "width": 158,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "52021",
+        "x": 445,
+        "y": 499,
+        "width": 23,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "E2482",
+        "x": 475,
+        "y": 487,
+        "width": 28,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "[4]",
+        "x": 95,
+        "y": 512,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "The",
+        "x": 113,
+        "y": 512,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "concept",
+        "x": 133,
+        "y": 514,
+        "width": 35,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 172,
+        "y": 512,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "artificial",
+        "x": 184,
+        "y": 512,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "intelligence",
+        "x": 224,
+        "y": 512,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "development",
+        "x": 280,
+        "y": 512,
+        "width": 57,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "in",
+        "x": 341,
+        "y": 515,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "Ukraine,",
+        "x": 353,
+        "y": 512,
+        "width": 38,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "2020.",
+        "x": 394,
+        "y": 513,
+        "width": 20,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "URL:",
+        "x": 420,
+        "y": 513,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "hitps)/zakon,",
+        "x": 446,
+        "y": 512,
+        "width": 59,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "ada",
+        "x": 113,
+        "y": 525,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "gov",
+        "x": 135,
+        "y": 528,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "laws/show/1556-2020-2D15808Text",
+        "x": 168,
+        "y": 525,
+        "width": 160,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "[5]",
+        "x": 95,
+        "y": 539,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "D..",
+        "x": 113,
+        "y": 540,
+        "width": 20,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Touretzky,",
+        "x": 140,
+        "y": 539,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "C.",
+        "x": 194,
+        "y": 540,
+        "width": 7,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Gardner-McCune,",
+        "x": 209,
+        "y": 540,
+        "width": 79,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "F.",
+        "x": 297,
+        "y": 540,
+        "width": 5,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Martin,",
+        "x": 310,
+        "y": 540,
+        "width": 32,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "D.",
+        "x": 348,
+        "y": 540,
+        "width": 7,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Sechorn,",
+        "x": 363,
+        "y": 539,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "K-12",
+        "x": 416,
+        "y": 540,
+        "width": 20,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "guidelines",
+        "x": 442,
+        "y": 539,
+        "width": 45,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "for",
+        "x": 493,
+        "y": 539,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "artificial",
+        "x": 113,
+        "y": 552,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "intelligence:",
+        "x": 157,
+        "y": 552,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "“what",
+        "x": 221,
+        "y": 552,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "students",
+        "x": 250,
+        "y": 552,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "should",
+        "x": 294,
+        "y": 552,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "know,",
+        "x": 330,
+        "y": 552,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "in:",
+        "x": 373,
+        "y": 555,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "2019",
+        "x": 394,
+        "y": 553,
+        "width": 20,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "International.",
+        "x": 421,
+        "y": 552,
+        "width": 58,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "Soci",
+        "x": 485,
+        "y": 553,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "ty",
+        "x": 113,
+        "y": 568,
+        "width": 14,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "for",
+        "x": 132,
+        "y": 566,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "Technology",
+        "x": 148,
+        "y": 566,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "in",
+        "x": 206,
+        "y": 569,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "Education,",
+        "x": 220,
+        "y": 566,
+        "width": 45,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "2019,",
+        "x": 273,
+        "y": 567,
+        "width": 20,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "URL:",
+        "x": 300,
+        "y": 567,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "https:/exploreaiethies",
+        "x": 327,
+        "y": 566,
+        "width": 122,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "comlcurriculun",
+        "x": 453,
+        "y": 566,
+        "width": 53,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "‘-12-guidelines-for-artificial-intelligence-what-students-shoud-know",
+        "x": 113,
+        "y": 579,
+        "width": 315,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "[6]",
+        "x": 95,
+        "y": 593,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "DAILy",
+        "x": 114,
+        "y": 583,
+        "width": 28,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "Workshop,",
+        "x": 147,
+        "y": 583,
+        "width": 46,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "2021.",
+        "x": 198,
+        "y": 583,
+        "width": 17,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "URL:",
+        "x": 224,
+        "y": 583,
+        "width": 19,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "https:/raisemitedu/dalyethicalMatrx",
+        "x": 247,
+        "y": 593,
+        "width": 200,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "html",
+        "x": 429,
+        "y": 583,
+        "width": 22,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "[7]",
+        "x": 95,
+        "y": 606,
+        "width": 11,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "P-",
+        "x": 113,
+        "y": 607,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Lin}.",
+        "x": 124,
+        "y": 607,
+        "width": 23,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "Van",
+        "x": 153,
+        "y": 607,
+        "width": 17,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Brummelen,",
+        "x": 174,
+        "y": 606,
+        "width": 55,
+        "height": 9
+    },
+    {
+        "page": 12,
+        "text": "Engaging",
+        "x": 234,
+        "y": 607,
+        "width": 43,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "teachers",
+        "x": 280,
+        "y": 606,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "to",
+        "x": 321,
+        "y": 608,
+        "width": 9,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "co-design",
+        "x": 333,
+        "y": 606,
+        "width": 43,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "integrated",
+        "x": 380,
+        "y": 606,
+        "width": 56,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "ai",
+        "x": 429,
+        "y": 596,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 12,
+        "text": "curriculum",
+        "x": 440,
+        "y": 606,
+        "width": 50,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "for",
+        "x": 493,
+        "y": 606,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "ke12",
+        "x": 113,
+        "y": 620,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "classrooms,",
+        "x": 136,
+        "y": 620,
+        "width": 50,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "in:",
+        "x": 197,
+        "y": 623,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "Proceedings",
+        "x": 214,
+        "y": 620,
+        "width": 55,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "of",
+        "x": 273,
+        "y": 620,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "the",
+        "x": 286,
+        "y": 620,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "2021",
+        "x": 305,
+        "y": 621,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "CHI",
+        "x": 329,
+        "y": 621,
+        "width": 18,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Conference",
+        "x": 351,
+        "y": 620,
+        "width": 52,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "on",
+        "x": 407,
+        "y": 623,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "Human",
+        "x": 423,
+        "y": 621,
+        "width": 33,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "Factors",
+        "x": 461,
+        "y": 621,
+        "width": 32,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "in",
+        "x": 497,
+        "y": 623,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 12,
+        "text": "Computing",
+        "x": 113,
+        "y": 635,
+        "width": 49,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "Systems,",
+        "x": 165,
+        "y": 635,
+        "width": 38,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "CHI’21,",
+        "x": 206,
+        "y": 634,
+        "width": 32,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "Association",
+        "x": 245,
+        "y": 635,
+        "width": 50,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "for",
+        "x": 299,
+        "y": 634,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "Computing",
+        "x": 314,
+        "y": 635,
+        "width": 49,
+        "height": 10
+    },
+    {
+        "page": 12,
+        "text": "Machinery,",
+        "x": 367,
+        "y": 634,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 12,
+        "text": "New",
+        "x": 418,
+        "y": 635,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "York,",
+        "x": 441,
+        "y": 634,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "NY,",
+        "x": 467,
+        "y": 635,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "USA,",
+        "x": 485,
+        "y": 635,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "202K.",
+        "x": 113,
+        "y": 648,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 12,
+        "text": "doist0.",
+        "x": 138,
+        "y": 647,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 12,
+        "text": "1145",
+        "x": 174,
+        "y": 649,
+        "width": 21,
+        "height": 6
+    },
+    {
+        "page": 12,
+        "text": "/3411764.3445377.",
+        "x": 204,
+        "y": 649,
+        "width": 86,
+        "height": 6
+    }
+]

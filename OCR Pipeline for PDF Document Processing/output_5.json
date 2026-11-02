@@ -1,0 +1,4258 @@
+[
+    {
+        "page": 5,
+        "text": "of",
+        "x": 90,
+        "y": 87,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "specialty",
+        "x": 103,
+        "y": 87,
+        "width": 39,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "126",
+        "x": 148,
+        "y": 88,
+        "width": 13,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "-",
+        "x": 166,
+        "y": 92,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "page": 5,
+        "text": "Information",
+        "x": 179,
+        "y": 87,
+        "width": 51,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Systems",
+        "x": 234,
+        "y": 88,
+        "width": 36,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 275,
+        "y": 87,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Technologies",
+        "x": 295,
+        "y": 87,
+        "width": 60,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 359,
+        "y": 87,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Vinnytsia",
+        "x": 372,
+        "y": 88,
+        "width": 43,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "National",
+        "x": 420,
+        "y": 87,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Techical",
+        "x": 462,
+        "y": 87,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "University",
+        "x": 90,
+        "y": 102,
+        "width": 46,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "are",
+        "x": 139,
+        "y": 104,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "working",
+        "x": 156,
+        "y": 101,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "oni.",
+        "x": 196,
+        "y": 103,
+        "width": 20,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "In",
+        "x": 223,
+        "y": 102,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 234,
+        "y": 101,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "author's",
+        "x": 251,
+        "y": 101,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "works",
+        "x": 290,
+        "y": 101,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "there",
+        "x": 321,
+        "y": 101,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "are",
+        "x": 346,
+        "y": 104,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "many",
+        "x": 363,
+        "y": 104,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "solutions",
+        "x": 391,
+        "y": 101,
+        "width": 40,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 434,
+        "y": 103,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "real",
+        "x": 446,
+        "y": 101,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "problems",
+        "x": 465,
+        "y": 101,
+        "width": 41,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "by",
+        "x": 90,
+        "y": 114,
+        "width": 10,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "machine",
+        "x": 103,
+        "y": 114,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "learning",
+        "x": 143,
+        "y": 114,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 183,
+        "y": 114,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "artifical",
+        "x": 202,
+        "y": 114,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "intelligence",
+        "x": 241,
+        "y": 114,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "based",
+        "x": 295,
+        "y": 114,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "on",
+        "x": 322,
+        "y": 117,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "Kagele’s",
+        "x": 336,
+        "y": 114,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "own",
+        "x": 376,
+        "y": 117,
+        "width": 18,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "public",
+        "x": 398,
+        "y": 114,
+        "width": 26,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "laptops",
+        "x": 429,
+        "y": 104,
+        "width": 28,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "[17].",
+        "x": 461,
+        "y": 104,
+        "width": 22,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "Also,",
+        "x": 485,
+        "y": 114,
+        "width": 22,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "these",
+        "x": 90,
+        "y": 128,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "developments",
+        "x": 116,
+        "y": 128,
+        "width": 62,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "are",
+        "x": 181,
+        "y": 131,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "successfully",
+        "x": 198,
+        "y": 128,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "used",
+        "x": 255,
+        "y": 128,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "by",
+        "x": 278,
+        "y": 128,
+        "width": 11,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 293,
+        "y": 128,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "author",
+        "x": 309,
+        "y": 128,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 342,
+        "y": 130,
+        "width": 9,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "teach",
+        "x": 354,
+        "y": 128,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "high",
+        "x": 381,
+        "y": 128,
+        "width": 20,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "school",
+        "x": 404,
+        "y": 128,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "students",
+        "x": 436,
+        "y": 128,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "(10-11",
+        "x": 477,
+        "y": 129,
+        "width": 28,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "_grades",
+        "x": 89,
+        "y": 141,
+        "width": 29,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 122,
+        "y": 141,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "specialized",
+        "x": 133,
+        "y": 141,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "schools).",
+        "x": 184,
+        "y": 141,
+        "width": 36,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "4,",
+        "x": 90,
+        "y": 174,
+        "width": 10,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "Results",
+        "x": 108,
+        "y": 173,
+        "width": 46,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "Widespread",
+        "x": 89,
+        "y": 200,
+        "width": 53,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "use",
+        "x": 145,
+        "y": 203,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 164,
+        "y": 189,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "Al",
+        "x": 175,
+        "y": 200,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "in",
+        "x": 187,
+        "y": 189,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "various",
+        "x": 200,
+        "y": 203,
+        "width": 32,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "fields",
+        "x": 236,
+        "y": 200,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 262,
+        "y": 200,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "everyday",
+        "x": 281,
+        "y": 200,
+        "width": 41,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "lfe",
+        "x": 325,
+        "y": 200,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "poses",
+        "x": 342,
+        "y": 203,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 370,
+        "y": 200,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "task",
+        "x": 387,
+        "y": 200,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 409,
+        "y": 189,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "mastering",
+        "x": 419,
+        "y": 200,
+        "width": 61,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 467,
+        "y": 189,
+        "width": 13,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "basic",
+        "x": 484,
+        "y": 200,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "skills",
+        "x": 90,
+        "y": 213,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "ofits",
+        "x": 116,
+        "y": 213,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "use",
+        "x": 141,
+        "y": 216,
+        "width": 15,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 159,
+        "y": 213,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "understanding",
+        "x": 179,
+        "y": 213,
+        "width": 65,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 248,
+        "y": 213,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "principles",
+        "x": 265,
+        "y": 213,
+        "width": 44,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 312,
+        "y": 213,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "work",
+        "x": 326,
+        "y": 213,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "in",
+        "x": 351,
+        "y": 216,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 363,
+        "y": 213,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "school",
+        "x": 380,
+        "y": 213,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "study.",
+        "x": 412,
+        "y": 213,
+        "width": 24,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "Therefore,",
+        "x": 442,
+        "y": 213,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 492,
+        "y": 213,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "{question",
+        "x": 89,
+        "y": 229,
+        "width": 39,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 132,
+        "y": 227,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "defining",
+        "x": 145,
+        "y": 227,
+        "width": 37,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "basic",
+        "x": 186,
+        "y": 227,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "terms",
+        "x": 212,
+        "y": 229,
+        "width": 25,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "is",
+        "x": 241,
+        "y": 230,
+        "width": 7,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "relevant,",
+        "x": 252,
+        "y": 227,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Transfering",
+        "x": 296,
+        "y": 227,
+        "width": 57,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 358,
+        "y": 227,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "simplest",
+        "x": 375,
+        "y": 227,
+        "width": 37,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "task",
+        "x": 417,
+        "y": 227,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "into",
+        "x": 439,
+        "y": 229,
+        "width": 17,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "t",
+        "x": 461,
+        "y": 229,
+        "width": 2,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "snalogies",
+        "x": 90,
+        "y": 240,
+        "width": 140,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "available",
+        "x": 135,
+        "y": 229,
+        "width": 35,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "toa",
+        "x": 174,
+        "y": 229,
+        "width": 15,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "particular",
+        "x": 193,
+        "y": 240,
+        "width": 37,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "age",
+        "x": 237,
+        "y": 229,
+        "width": 14,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "group",
+        "x": 256,
+        "y": 243,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "isa",
+        "x": 283,
+        "y": 243,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "separate",
+        "x": 299,
+        "y": 240,
+        "width": 56,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "task",
+        "x": 337,
+        "y": 229,
+        "width": 20,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "Usually",
+        "x": 361,
+        "y": 240,
+        "width": 102,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "using",
+        "x": 396,
+        "y": 229,
+        "width": 22,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 422,
+        "y": 229,
+        "width": 14,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "tems",
+        "x": 440,
+        "y": 229,
+        "width": 27,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "intelligence,",
+        "x": 90,
+        "y": 254,
+        "width": 54,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "\"machine",
+        "x": 150,
+        "y": 254,
+        "width": 41,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "learning’,",
+        "x": 195,
+        "y": 254,
+        "width": 42,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "\"deep",
+        "x": 241,
+        "y": 254,
+        "width": 24,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "earning’,",
+        "x": 268,
+        "y": 254,
+        "width": 40,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "\"neural",
+        "x": 314,
+        "y": 254,
+        "width": 32,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "networks”",
+        "x": 349,
+        "y": 254,
+        "width": 45,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "soften",
+        "x": 398,
+        "y": 254,
+        "width": 32,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "a",
+        "x": 433,
+        "y": 244,
+        "width": 3,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "substitution",
+        "x": 434,
+        "y": 254,
+        "width": 60,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of,",
+        "x": 497,
+        "y": 254,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "concept,",
+        "x": 90,
+        "y": 269,
+        "width": 38,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "Let's",
+        "x": 134,
+        "y": 267,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "define",
+        "x": 158,
+        "y": 267,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "these",
+        "x": 188,
+        "y": 267,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "concepts.",
+        "x": 214,
+        "y": 269,
+        "width": 39,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "Artificial",
+        "x": 101,
+        "y": 281,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "intelligence",
+        "x": 145,
+        "y": 281,
+        "width": 51,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "(Al)",
+        "x": 201,
+        "y": 282,
+        "width": 16,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "sa",
+        "x": 222,
+        "y": 284,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "technological",
+        "x": 241,
+        "y": 281,
+        "width": 60,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 305,
+        "y": 281,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "scientific",
+        "x": 325,
+        "y": 281,
+        "width": 40,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "solution",
+        "x": 369,
+        "y": 281,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "that",
+        "x": 410,
+        "y": 281,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "helps",
+        "x": 431,
+        "y": 281,
+        "width": 23,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 459,
+        "y": 283,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "develop",
+        "x": 471,
+        "y": 281,
+        "width": 35,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "‘progeamns",
+        "x": 89,
+        "y": 298,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "similar",
+        "x": 134,
+        "y": 284,
+        "width": 30,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "tothe",
+        "x": 167,
+        "y": 295,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "human",
+        "x": 197,
+        "y": 284,
+        "width": 28,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "mind",
+        "x": 229,
+        "y": 284,
+        "width": 20,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "that",
+        "x": 253,
+        "y": 295,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "can",
+        "x": 274,
+        "y": 298,
+        "width": 12,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "think,",
+        "x": 292,
+        "y": 284,
+        "width": 24,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "recognize",
+        "x": 320,
+        "y": 295,
+        "width": 103,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 365,
+        "y": 284,
+        "width": 14,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "selElear.",
+        "x": 383,
+        "y": 295,
+        "width": 40,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "Machine",
+        "x": 432,
+        "y": 284,
+        "width": 34,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "learning",
+        "x": 470,
+        "y": 284,
+        "width": 36,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "(ML)",
+        "x": 89,
+        "y": 309,
+        "width": 21,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "are",
+        "x": 115,
+        "y": 311,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "methods",
+        "x": 133,
+        "y": 308,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "in",
+        "x": 176,
+        "y": 311,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 189,
+        "y": 308,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "artificial",
+        "x": 207,
+        "y": 308,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "intelligence,",
+        "x": 249,
+        "y": 308,
+        "width": 52,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "algorithms",
+        "x": 308,
+        "y": 308,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "used",
+        "x": 361,
+        "y": 308,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 386,
+        "y": 310,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "teach",
+        "x": 399,
+        "y": 308,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "classification",
+        "x": 427,
+        "y": 308,
+        "width": 58,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 490,
+        "y": 308,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "clustering",
+        "x": 90,
+        "y": 322,
+        "width": 44,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "It",
+        "x": 141,
+        "y": 323,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "is",
+        "x": 151,
+        "y": 311,
+        "width": 6,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "due",
+        "x": 160,
+        "y": 322,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 180,
+        "y": 324,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 192,
+        "y": 322,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "processing",
+        "x": 209,
+        "y": 325,
+        "width": 48,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 261,
+        "y": 311,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "large",
+        "x": 266,
+        "y": 322,
+        "width": 28,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "data",
+        "x": 298,
+        "y": 322,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "sets",
+        "x": 320,
+        "y": 324,
+        "width": 16,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 340,
+        "y": 322,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "finding",
+        "x": 359,
+        "y": 311,
+        "width": 31,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "patterns",
+        "x": 396,
+        "y": 311,
+        "width": 33,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "in",
+        "x": 435,
+        "y": 325,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "them,",
+        "x": 447,
+        "y": 322,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Neural",
+        "x": 476,
+        "y": 322,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "networks",
+        "x": 90,
+        "y": 335,
+        "width": 41,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "(NN),",
+        "x": 134,
+        "y": 336,
+        "width": 21,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "Artificial",
+        "x": 161,
+        "y": 335,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "neural",
+        "x": 203,
+        "y": 335,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "networks",
+        "x": 235,
+        "y": 335,
+        "width": 41,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "(ANN)",
+        "x": 279,
+        "y": 336,
+        "width": 29,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 311,
+        "y": 335,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "deep",
+        "x": 330,
+        "y": 335,
+        "width": 21,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "learning",
+        "x": 354,
+        "y": 335,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "works",
+        "x": 394,
+        "y": 335,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "with",
+        "x": 424,
+        "y": 335,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "complex",
+        "x": 447,
+        "y": 335,
+        "width": 37,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "data",
+        "x": 487,
+        "y": 335,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 90,
+        "y": 349,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "fuzzy",
+        "x": 109,
+        "y": 349,
+        "width": 24,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "logic.",
+        "x": 137,
+        "y": 349,
+        "width": 21,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "Deep",
+        "x": 165,
+        "y": 350,
+        "width": 23,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "learning",
+        "x": 192,
+        "y": 349,
+        "width": 37,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "is",
+        "x": 233,
+        "y": 352,
+        "width": 6,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "one",
+        "x": 243,
+        "y": 352,
+        "width": 16,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 263,
+        "y": 349,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 275,
+        "y": 349,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "methods",
+        "x": 292,
+        "y": 349,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 334,
+        "y": 349,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "machine",
+        "x": 346,
+        "y": 349,
+        "width": 38,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "learning.",
+        "x": 388,
+        "y": 349,
+        "width": 37,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "Data",
+        "x": 432,
+        "y": 350,
+        "width": 21,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "science",
+        "x": 456,
+        "y": 352,
+        "width": 33,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "are",
+        "x": 492,
+        "y": 352,
+        "width": 14,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "methods",
+        "x": 90,
+        "y": 362,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 131,
+        "y": 362,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "data",
+        "x": 144,
+        "y": 352,
+        "width": 16,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "analysis",
+        "x": 164,
+        "y": 362,
+        "width": 35,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "for",
+        "x": 203,
+        "y": 362,
+        "width": 12,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "ther",
+        "x": 218,
+        "y": 362,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "further",
+        "x": 242,
+        "y": 362,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "processing.",
+        "x": 277,
+        "y": 365,
+        "width": 49,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "sorting,",
+        "x": 329,
+        "y": 364,
+        "width": 34,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "sampling",
+        "x": 366,
+        "y": 362,
+        "width": 40,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 410,
+        "y": 362,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "search.",
+        "x": 429,
+        "y": 362,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "I",
+        "x": 464,
+        "y": 363,
+        "width": 2,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "sets",
+        "x": 473,
+        "y": 364,
+        "width": 16,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 492,
+        "y": 362,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "correlation",
+        "x": 90,
+        "y": 379,
+        "width": 48,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "between",
+        "x": 142,
+        "y": 365,
+        "width": 35,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "data,",
+        "x": 181,
+        "y": 365,
+        "width": 22,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "Big",
+        "x": 206,
+        "y": 377,
+        "width": 14,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "Data",
+        "x": 224,
+        "y": 377,
+        "width": 15,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "-",
+        "x": 249,
+        "y": 381,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "page": 5,
+        "text": "technologies",
+        "x": 256,
+        "y": 376,
+        "width": 131,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 316,
+        "y": 365,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "working",
+        "x": 328,
+        "y": 365,
+        "width": 34,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "with",
+        "x": 368,
+        "y": 365,
+        "width": 17,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "large",
+        "x": 391,
+        "y": 365,
+        "width": 20,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "data",
+        "x": 417,
+        "y": 365,
+        "width": 16,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "sets,",
+        "x": 437,
+        "y": 378,
+        "width": 16,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "“To",
+        "x": 100,
+        "y": 390,
+        "width": 11,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "begin",
+        "x": 115,
+        "y": 389,
+        "width": 23,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 142,
+        "y": 389,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "introduction",
+        "x": 158,
+        "y": 389,
+        "width": 55,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "ofthe",
+        "x": 216,
+        "y": 389,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "study",
+        "x": 245,
+        "y": 389,
+        "width": 74,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 273,
+        "y": 378,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "artifical",
+        "x": 285,
+        "y": 389,
+        "width": 34,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "intelligence",
+        "x": 323,
+        "y": 389,
+        "width": 50,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "basics,",
+        "x": 377,
+        "y": 389,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "itis",
+        "x": 408,
+        "y": 391,
+        "width": 16,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "necessary",
+        "x": 427,
+        "y": 391,
+        "width": 54,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 474,
+        "y": 378,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "meet",
+        "x": 485,
+        "y": 391,
+        "width": 20,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 90,
+        "y": 403,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "following",
+        "x": 107,
+        "y": 403,
+        "width": 41,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "conditions:",
+        "x": 152,
+        "y": 403,
+        "width": 46,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "+",
+        "x": 108,
+        "y": 428,
+        "width": 3,
+        "height": 3
+    },
+    {
+        "page": 5,
+        "text": "setting",
+        "x": 117,
+        "y": 426,
+        "width": 30,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "task",
+        "x": 150,
+        "y": 424,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "in",
+        "x": 176,
+        "y": 427,
+        "width": 7,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "terms",
+        "x": 187,
+        "y": 426,
+        "width": 24,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 215,
+        "y": 424,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "analogies",
+        "x": 234,
+        "y": 424,
+        "width": 41,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "that",
+        "x": 279,
+        "y": 424,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "willbe",
+        "x": 299,
+        "y": 424,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "clear",
+        "x": 332,
+        "y": 413,
+        "width": 20,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "toa",
+        "x": 355,
+        "y": 413,
+        "width": 15,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "certain",
+        "x": 368,
+        "y": 426,
+        "width": 38,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "age",
+        "x": 409,
+        "y": 427,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "group;",
+        "x": 427,
+        "y": 427,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "+",
+        "x": 108,
+        "y": 443,
+        "width": 3,
+        "height": 3
+    },
+    {
+        "page": 5,
+        "text": "selection",
+        "x": 117,
+        "y": 439,
+        "width": 39,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 159,
+        "y": 439,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "tools.",
+        "x": 171,
+        "y": 439,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "twill",
+        "x": 198,
+        "y": 439,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "ensue",
+        "x": 227,
+        "y": 442,
+        "width": 29,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 259,
+        "y": 439,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "task",
+        "x": 276,
+        "y": 439,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "performance",
+        "x": 297,
+        "y": 439,
+        "width": 56,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 356,
+        "y": 439,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 375,
+        "y": 439,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "appropriate",
+        "x": 392,
+        "y": 441,
+        "width": 51,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "level",
+        "x": 447,
+        "y": 439,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 470,
+        "y": 439,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "skills",
+        "x": 482,
+        "y": 439,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "+",
+        "x": 108,
+        "y": 457,
+        "width": 3,
+        "height": 3
+    },
+    {
+        "page": 5,
+        "text": "development",
+        "x": 117,
+        "y": 453,
+        "width": 55,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 176,
+        "y": 453,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "learning",
+        "x": 188,
+        "y": 442,
+        "width": 33,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "course,",
+        "x": 225,
+        "y": 442,
+        "width": 31,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "content",
+        "x": 257,
+        "y": 455,
+        "width": 32,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 293,
+        "y": 442,
+        "width": 14,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "determination",
+        "x": 310,
+        "y": 453,
+        "width": 61,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 374,
+        "y": 453,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "expected",
+        "x": 385,
+        "y": 453,
+        "width": 38,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "learning",
+        "x": 426,
+        "y": 453,
+        "width": 35,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "outcomes,",
+        "x": 464,
+        "y": 455,
+        "width": 41,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "Among",
+        "x": 101,
+        "y": 475,
+        "width": 32,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 136,
+        "y": 474,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "tasks",
+        "x": 153,
+        "y": 474,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "that",
+        "x": 178,
+        "y": 474,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "can",
+        "x": 199,
+        "y": 477,
+        "width": 15,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "be",
+        "x": 217,
+        "y": 474,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "set",
+        "x": 230,
+        "y": 476,
+        "width": 12,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 245,
+        "y": 474,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "solved",
+        "x": 264,
+        "y": 474,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "with",
+        "x": 296,
+        "y": 474,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 319,
+        "y": 474,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "help",
+        "x": 336,
+        "y": 474,
+        "width": 18,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 358,
+        "y": 474,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Al",
+        "x": 369,
+        "y": 475,
+        "width": 10,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "isthe",
+        "x": 383,
+        "y": 474,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "development",
+        "x": 409,
+        "y": 474,
+        "width": 57,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 470,
+        "y": 474,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "sn",
+        "x": 482,
+        "y": 463,
+        "width": 5,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "systems",
+        "x": 90,
+        "y": 490,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "that",
+        "x": 129,
+        "y": 488,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "will",
+        "x": 151,
+        "y": 488,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "help",
+        "x": 171,
+        "y": 488,
+        "width": 20,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "not",
+        "x": 195,
+        "y": 490,
+        "width": 14,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "only",
+        "x": 213,
+        "y": 488,
+        "width": 20,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "in",
+        "x": 237,
+        "y": 491,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "business",
+        "x": 250,
+        "y": 488,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "or",
+        "x": 292,
+        "y": 491,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "office,",
+        "x": 305,
+        "y": 488,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "but",
+        "x": 335,
+        "y": 488,
+        "width": 15,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "also",
+        "x": 354,
+        "y": 488,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "at",
+        "x": 375,
+        "y": 490,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "home,",
+        "x": 387,
+        "y": 488,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Smart",
+        "x": 420,
+        "y": 489,
+        "width": 27,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "systems",
+        "x": 451,
+        "y": 490,
+        "width": 35,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "can",
+        "x": 490,
+        "y": 491,
+        "width": 16,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "perform",
+        "x": 89,
+        "y": 502,
+        "width": 35,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "many",
+        "x": 128,
+        "y": 505,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "tasks,",
+        "x": 155,
+        "y": 502,
+        "width": 24,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "from",
+        "x": 182,
+        "y": 502,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "setting",
+        "x": 206,
+        "y": 504,
+        "width": 29,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 238,
+        "y": 502,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "alarm",
+        "x": 254,
+        "y": 502,
+        "width": 72,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 283,
+        "y": 492,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "turing",
+        "x": 292,
+        "y": 502,
+        "width": 31,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 329,
+        "y": 502,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "light",
+        "x": 345,
+        "y": 502,
+        "width": 20,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "ono.",
+        "x": 368,
+        "y": 502,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Another",
+        "x": 400,
+        "y": 502,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "task",
+        "x": 439,
+        "y": 502,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "for",
+        "x": 459,
+        "y": 502,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "ALs",
+        "x": 475,
+        "y": 503,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 498,
+        "y": 504,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "collect",
+        "x": 90,
+        "y": 515,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "data",
+        "x": 121,
+        "y": 515,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "from",
+        "x": 143,
+        "y": 515,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "diferent",
+        "x": 167,
+        "y": 515,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "portals,",
+        "x": 208,
+        "y": 515,
+        "width": 30,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "With",
+        "x": 244,
+        "y": 515,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "machine",
+        "x": 270,
+        "y": 515,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "lerning,",
+        "x": 310,
+        "y": 515,
+        "width": 39,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "you",
+        "x": 352,
+        "y": 518,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "can",
+        "x": 372,
+        "y": 518,
+        "width": 15,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "apply",
+        "x": 390,
+        "y": 515,
+        "width": 24,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "different",
+        "x": 418,
+        "y": 515,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "algorithms",
+        "x": 458,
+        "y": 515,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 90,
+        "y": 531,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 101,
+        "y": 529,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "data",
+        "x": 118,
+        "y": 529,
+        "width": 18,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 140,
+        "y": 531,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "gti",
+        "x": 151,
+        "y": 531,
+        "width": 23,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "in",
+        "x": 178,
+        "y": 532,
+        "width": 7,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 189,
+        "y": 529,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "right",
+        "x": 206,
+        "y": 529,
+        "width": 21,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "shape.",
+        "x": 230,
+        "y": 529,
+        "width": 25,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "The",
+        "x": 261,
+        "y": 529,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "task",
+        "x": 282,
+        "y": 529,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 303,
+        "y": 518,
+        "width": 4,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "obtaining",
+        "x": 308,
+        "y": 529,
+        "width": 48,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "recommendations",
+        "x": 359,
+        "y": 529,
+        "width": 79,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "based",
+        "x": 442,
+        "y": 529,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "on",
+        "x": 471,
+        "y": 532,
+        "width": 10,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "what",
+        "x": 485,
+        "y": 529,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "‘eustomers",
+        "x": 89,
+        "y": 544,
+        "width": 45,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "view",
+        "x": 137,
+        "y": 545,
+        "width": 19,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "or",
+        "x": 160,
+        "y": 545,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "buy",
+        "x": 172,
+        "y": 542,
+        "width": 15,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "inthe",
+        "x": 191,
+        "y": 542,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "online",
+        "x": 219,
+        "y": 542,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "store",
+        "x": 249,
+        "y": 544,
+        "width": 21,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "is",
+        "x": 273,
+        "y": 545,
+        "width": 7,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "also",
+        "x": 283,
+        "y": 542,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "performed",
+        "x": 302,
+        "y": 542,
+        "width": 46,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "on",
+        "x": 351,
+        "y": 545,
+        "width": 10,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 365,
+        "y": 542,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "basis",
+        "x": 381,
+        "y": 542,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 405,
+        "y": 542,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Al",
+        "x": 417,
+        "y": 543,
+        "width": 9,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "machine",
+        "x": 430,
+        "y": 542,
+        "width": 36,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "learning",
+        "x": 469,
+        "y": 542,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "Ie",
+        "x": 90,
+        "y": 557,
+        "width": 6,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "-will",
+        "x": 100,
+        "y": 556,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "also",
+        "x": 121,
+        "y": 556,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "help",
+        "x": 142,
+        "y": 556,
+        "width": 19,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 165,
+        "y": 558,
+        "width": 9,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "make",
+        "x": 178,
+        "y": 556,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "more",
+        "x": 206,
+        "y": 559,
+        "width": 22,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "profit",
+        "x": 233,
+        "y": 556,
+        "width": 24,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "for",
+        "x": 261,
+        "y": 556,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 278,
+        "y": 556,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "business.",
+        "x": 296,
+        "y": 556,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "When",
+        "x": 342,
+        "y": 556,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "it",
+        "x": 373,
+        "y": 558,
+        "width": 6,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "comes",
+        "x": 383,
+        "y": 559,
+        "width": 27,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 415,
+        "y": 558,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "buying",
+        "x": 427,
+        "y": 556,
+        "width": 32,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "a",
+        "x": 463,
+        "y": 559,
+        "width": 4,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "product",
+        "x": 471,
+        "y": 556,
+        "width": 35,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "or",
+        "x": 90,
+        "y": 572,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "service,",
+        "x": 102,
+        "y": 572,
+        "width": 34,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "visting",
+        "x": 140,
+        "y": 569,
+        "width": 78,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "a",
+        "x": 177,
+        "y": 559,
+        "width": 5,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "website",
+        "x": 186,
+        "y": 569,
+        "width": 32,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 222,
+        "y": 569,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "using",
+        "x": 242,
+        "y": 569,
+        "width": 71,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "a",
+        "x": 270,
+        "y": 559,
+        "width": 3,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "helpline",
+        "x": 277,
+        "y": 569,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "through",
+        "x": 317,
+        "y": 569,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "an",
+        "x": 356,
+        "y": 572,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "online",
+        "x": 371,
+        "y": 569,
+        "width": 27,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "chat",
+        "x": 402,
+        "y": 569,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "or",
+        "x": 424,
+        "y": 572,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "chat",
+        "x": 437,
+        "y": 569,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "window",
+        "x": 459,
+        "y": 569,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "is",
+        "x": 499,
+        "y": 572,
+        "width": 7,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 90,
+        "y": 583,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "norm",
+        "x": 108,
+        "y": 586,
+        "width": 24,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "in",
+        "x": 136,
+        "y": 586,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "today's",
+        "x": 149,
+        "y": 583,
+        "width": 32,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "online",
+        "x": 185,
+        "y": 583,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "stores.",
+        "x": 217,
+        "y": 585,
+        "width": 26,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "This",
+        "x": 252,
+        "y": 583,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "24/7",
+        "x": 276,
+        "y": 584,
+        "width": 18,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "help",
+        "x": 299,
+        "y": 583,
+        "width": 19,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "is",
+        "x": 322,
+        "y": 586,
+        "width": 7,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "only",
+        "x": 333,
+        "y": 583,
+        "width": 20,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "possible",
+        "x": 357,
+        "y": 583,
+        "width": 36,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "thanks",
+        "x": 398,
+        "y": 583,
+        "width": 29,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 432,
+        "y": 585,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "AI",
+        "x": 444,
+        "y": 584,
+        "width": 11,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "(Chat",
+        "x": 459,
+        "y": 583,
+        "width": 24,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "bo.",
+        "x": 488,
+        "y": 583,
+        "width": 17,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "“Modern",
+        "x": 90,
+        "y": 596,
+        "width": 34,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "electronic",
+        "x": 127,
+        "y": 596,
+        "width": 44,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "dictionaries",
+        "x": 174,
+        "y": 596,
+        "width": 35,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 222,
+        "y": 596,
+        "width": 23,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "search",
+        "x": 248,
+        "y": 599,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "engines",
+        "x": 271,
+        "y": 596,
+        "width": 42,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "also",
+        "x": 316,
+        "y": 596,
+        "width": 17,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "use",
+        "x": 336,
+        "y": 599,
+        "width": 15,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "Alto",
+        "x": 354,
+        "y": 597,
+        "width": 22,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "translate",
+        "x": 392,
+        "y": 596,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "text",
+        "x": 421,
+        "y": 598,
+        "width": 16,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "or",
+        "x": 441,
+        "y": 599,
+        "width": 9,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "issue",
+        "x": 453,
+        "y": 599,
+        "width": 21,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "search",
+        "x": 478,
+        "y": 596,
+        "width": 28,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "‘queries",
+        "x": 89,
+        "y": 613,
+        "width": 32,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "based",
+        "x": 124,
+        "y": 610,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "on",
+        "x": 151,
+        "y": 613,
+        "width": 11,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "texto",
+        "x": 165,
+        "y": 612,
+        "width": 28,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "images,",
+        "x": 196,
+        "y": 613,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Some",
+        "x": 232,
+        "y": 611,
+        "width": 23,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "ofthese",
+        "x": 259,
+        "y": 610,
+        "width": 33,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "tasks",
+        "x": 296,
+        "y": 610,
+        "width": 21,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "can",
+        "x": 320,
+        "y": 613,
+        "width": 15,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "be",
+        "x": 339,
+        "y": 599,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "considered",
+        "x": 351,
+        "y": 610,
+        "width": 46,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "in",
+        "x": 401,
+        "y": 613,
+        "width": 8,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "lessons",
+        "x": 412,
+        "y": 610,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "inthe",
+        "x": 446,
+        "y": 610,
+        "width": 24,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "form",
+        "x": 474,
+        "y": 610,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 498,
+        "y": 610,
+        "width": 9,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "simplified",
+        "x": 90,
+        "y": 623,
+        "width": 43,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "tasks,",
+        "x": 136,
+        "y": 623,
+        "width": 22,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Examples",
+        "x": 164,
+        "y": 623,
+        "width": 42,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "1.",
+        "x": 105,
+        "y": 644,
+        "width": 3,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "Image",
+        "x": 117,
+        "y": 644,
+        "width": 27,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "recognizer",
+        "x": 147,
+        "y": 646,
+        "width": 47,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "Using",
+        "x": 200,
+        "y": 644,
+        "width": 26,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 229,
+        "y": 643,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "platform,",
+        "x": 246,
+        "y": 643,
+        "width": 41,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "images",
+        "x": 290,
+        "y": 646,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "of",
+        "x": 325,
+        "y": 633,
+        "width": 7,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "any",
+        "x": 330,
+        "y": 643,
+        "width": 21,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "object,",
+        "x": 356,
+        "y": 643,
+        "width": 29,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "such",
+        "x": 388,
+        "y": 643,
+        "width": 20,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "asa",
+        "x": 412,
+        "y": 646,
+        "width": 16,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "toy",
+        "x": 432,
+        "y": 645,
+        "width": 14,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "are",
+        "x": 451,
+        "y": 646,
+        "width": 13,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "added",
+        "x": 468,
+        "y": 643,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 498,
+        "y": 645,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 117,
+        "y": 656,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "database",
+        "x": 134,
+        "y": 656,
+        "width": 40,
+        "height": 9
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 177,
+        "y": 656,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "then,",
+        "x": 197,
+        "y": 656,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "by",
+        "x": 222,
+        "y": 656,
+        "width": 10,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "expanding",
+        "x": 236,
+        "y": 656,
+        "width": 46,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 285,
+        "y": 656,
+        "width": 13,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "detection",
+        "x": 302,
+        "y": 656,
+        "width": 41,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "ofthe",
+        "x": 346,
+        "y": 656,
+        "width": 25,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "human",
+        "x": 375,
+        "y": 656,
+        "width": 30,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "body",
+        "x": 409,
+        "y": 656,
+        "width": 21,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 434,
+        "y": 656,
+        "width": 16,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "objects.",
+        "x": 453,
+        "y": 656,
+        "width": 30,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "tis",
+        "x": 490,
+        "y": 657,
+        "width": 16,
+        "height": 7
+    },
+    {
+        "page": 5,
+        "text": "raised",
+        "x": 117,
+        "y": 670,
+        "width": 54,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "to",
+        "x": 145,
+        "y": 660,
+        "width": 10,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 157,
+        "y": 670,
+        "width": 14,
+        "height": 8
+    },
+    {
+        "page": 5,
+        "text": "camera,",
+        "x": 175,
+        "y": 670,
+        "width": 93,
+        "height": 11
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 213,
+        "y": 660,
+        "width": 15,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 231,
+        "y": 660,
+        "width": 13,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "program",
+        "x": 248,
+        "y": 660,
+        "width": 36,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "detects",
+        "x": 289,
+        "y": 670,
+        "width": 84,
+        "height": 10
+    },
+    {
+        "page": 5,
+        "text": "the",
+        "x": 323,
+        "y": 660,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "toy",
+        "x": 341,
+        "y": 660,
+        "width": 13,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "and",
+        "x": 357,
+        "y": 660,
+        "width": 15,
+        "height": 28
+    },
+    {
+        "page": 5,
+        "text": "names",
+        "x": 377,
+        "y": 673,
+        "width": 27,
+        "height": 5
+    },
+    {
+        "page": 5,
+        "text": "it",
+        "x": 408,
+        "y": 672,
+        "width": 6,
+        "height": 6
+    }
+]

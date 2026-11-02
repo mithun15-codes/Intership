@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Instagram – Home feed. See the latest posts from people you follow." />
+  <title>Instagram</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <!-- Top Navigation -->
+  <nav class="top-nav" id="top-nav"></nav>
+
+  <!-- Main Content -->
+  <main class="page">
+    <div class="feed-container">
+      <!-- Stories Bar -->
+      <div class="stories-bar" id="stories-bar"></div>
+      <input type="file" id="story-upload" accept="image/*,video/*" style="display:none;" onchange="handleStoryUpload(event)" />
+
+      <!-- Posts Feed -->
+      <div id="posts-feed"></div>
+    </div>
+  </main>
+
+  <!-- Story Viewer -->
+  <div class="story-viewer hidden" id="story-viewer">
+    <div class="story-viewer__progress" id="story-progress"></div>
+    <div class="story-viewer__user" id="story-user"></div>
+    <button class="story-viewer__close" id="story-close">&times;</button>
+    <button class="story-viewer__delete hidden" id="story-delete">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line></svg>
+    </button>
+    <div class="story-viewer__media-container" id="story-media-container"></div>
+    <div class="story-viewer__nav story-viewer__nav--prev" id="story-prev"></div>
+    <div class="story-viewer__nav story-viewer__nav--next" id="story-next"></div>
+  </div>
+
+  <!-- Bottom Navigation -->
+  <nav class="bottom-nav" id="bottom-nav"></nav>
+
+  <script src="js/data.js?v=13"></script>
+  <script src="js/app.js?v=13"></script>
+  <script src="js/home.js?v=13"></script>
+</body>
+</html>

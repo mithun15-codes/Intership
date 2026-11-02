@@ -1,0 +1,22 @@
+student_details = [
+    {"Student_ID": 101, "Name": "Alice Johnson", "Age": 20, "Gender": "Female", "Grade": "A", "Department": "Computer Science", "City": "New York"},
+    {"Student_ID": 102, "Name": "Bob Smith", "Age": 21, "Gender": "Male", "Grade": "B", "Department": "Mathematics", "City": "Chicago"},
+    {"Student_ID": 103, "Name": "Charlie Brown", "Age": 19, "Gender": "Male", "Grade": "A", "Department": "Physics", "City": "Boston"},
+    {"Student_ID": 104, "Name": "Diana Wilson", "Age": 22, "Gender": "Female", "Grade": "C", "Department": "Biology", "City": "Seattle"},
+    {"Student_ID": 105, "Name": "Ethan Davis", "Age": 20, "Gender": "Male", "Grade": "B", "Department": "Chemistry", "City": "Denver"},
+    {"Student_ID": 106, "Name": "Fiona Miller", "Age": 21, "Gender": "Female", "Grade": "A", "Department": "Computer Science", "City": "Austin"},
+    {"Student_ID": 107, "Name": "George Taylor", "Age": 23, "Gender": "Male", "Grade": "B", "Department": "Economics", "City": "Miami"},
+    {"Student_ID": 108, "Name": "Hannah Moore", "Age": 20, "Gender": "Female", "Grade": "A", "Department": "Statistics", "City": "Dallas"},
+    {"Student_ID": 109, "Name": "Ian Anderson", "Age": 22, "Gender": "Male", "Grade": "C", "Department": "Physics", "City": "Phoenix"},
+    {"Student_ID": 110, "Name": "Julia Thomas", "Age": 19, "Gender": "Female", "Grade": "A", "Department": "Biology", "City": "San Diego"},
+    {"Student_ID": 111, "Name": "Kevin Jackson", "Age": 21, "Gender": "Male", "Grade": "B", "Department": "Mathematics", "City": "Atlanta"},
+    {"Student_ID": 112, "Name": "Laura White", "Age": 20, "Gender": "Female", "Grade": "A", "Department": "Chemistry", "City": "Portland"},
+    {"Student_ID": 113, "Name": "Michael Harris", "Age": 22, "Gender": "Male", "Grade": "C", "Department": "Economics", "City": "Houston"},
+    {"Student_ID": 114, "Name": "Nina Martin", "Age": 21, "Gender": "Female", "Grade": "B", "Department": "Computer Science", "City": "Los Angeles"},
+    {"Student_ID": 115, "Name": "Oliver Thompson", "Age": 20, "Gender": "Male", "Grade": "A", "Department": "Statistics", "City": "Philadelphia"},
+    {"Student_ID": 116, "Name": "Paula Garcia", "Age": 23, "Gender": "Female", "Grade": "B", "Department": "Physics", "City": "Detroit"},
+    {"Student_ID": 117, "Name": "Quentin Martinez", "Age": 19, "Gender": "Male", "Grade": "A", "Department": "Biology", "City": "Las Vegas"},
+    {"Student_ID": 118, "Name": "Rachel Robinson", "Age": 22, "Gender": "Female", "Grade": "B", "Department": "Chemistry", "City": "Orlando"},
+    {"Student_ID": 119, "Name": "Samuel Clark", "Age": 21, "Gender": "Male", "Grade": "C", "Department": "Economics", "City": "Nashville"},
+    {"Student_ID": 120, "Name": "Tina Rodriguez", "Age": 20, "Gender": "Female", "Grade": "A", "Department": "Computer Science", "City": "San Francisco"}
+]

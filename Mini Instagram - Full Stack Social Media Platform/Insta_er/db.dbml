@@ -1,0 +1,134 @@
+Table roles {
+  role_id integer [pk]
+  role_name varchar [not null, unique]
+}
+
+Table users {
+  user_id integer [pk]
+  username varchar [not null, unique]
+  full_name varchar
+  email varchar [unique]
+  phone_no varchar
+  hashed_password varchar [not null]
+  dob date
+  bio text
+  profile_pic_url varchar
+  created_at datetime
+  role_id integer [not null]
+}
+
+
+Table followers {
+  follower_id integer [not null]
+  following_id integer [not null]
+  followed_at datetime
+
+  indexes {
+    (follower_id, following_id) [pk]
+  }
+}
+
+Table posts {
+  post_id integer [pk]
+  user_id integer [not null]
+  caption text
+  media_url varchar [not null]
+  media_type varchar
+  location varchar
+  created_at datetime
+}
+
+Table post_likes {
+  like_id integer [pk]
+  post_id integer [not null]
+  user_id integer [not null]
+  liked_at datetime
+
+  indexes {
+    (post_id, user_id) [unique]
+  }
+}
+
+Table post_comments {
+  comment_id integer [pk]
+  post_id integer [not null]
+  user_id integer [not null]
+  comment_text text [not null]
+  created_at datetime
+}
+
+Table saved_posts {
+  saved_post_id integer [pk]
+  post_id integer [not null]
+  user_id integer [not null]
+  saved_at datetime
+
+  indexes {
+    (post_id, user_id) [unique]
+  }
+}
+
+Table reels {
+  reel_id integer [pk]
+  user_id integer [not null]
+  caption text
+  media_url varchar [not null]
+  audio_name varchar
+  duration integer
+  created_at datetime
+}
+
+Table reel_comments {
+  comment_id integer [pk]
+  reel_id integer [not null]
+  user_id integer [not null]
+  comment_text text [not null]
+  created_at datetime
+}
+
+Table saved_reels {
+  saved_reel_id integer [pk]
+  reel_id integer [not null]
+  user_id integer [not null]
+  saved_at datetime
+
+  indexes {
+    (reel_id, user_id) [unique]
+  }
+}
+
+Table stories {
+  story_id integer [pk]
+  user_id integer [not null]
+  media_url varchar [not null]
+  media_type varchar
+  created_at datetime
+  expires_at datetime
+}
+
+Table refresh_tokens {
+  token_id integer [pk]
+  user_id integer [not null]
+  token varchar [not null, unique]
+  expires_at datetime [not null]
+  created_at datetime
+  revoked boolean
+}
+
+Ref: users.role_id > roles.role_id
+Ref: followers.follower_id > users.user_id
+Ref: followers.following_id > users.user_id
+Ref: posts.user_id > users.user_id
+Ref: post_likes.post_id > posts.post_id
+Ref: post_likes.user_id > users.user_id
+Ref: post_comments.post_id > posts.post_id
+Ref: post_comments.user_id > users.user_id
+Ref: saved_posts.post_id > posts.post_id
+Ref: saved_posts.user_id > users.user_id
+Ref: reels.user_id > users.user_id
+Ref: reel_comments.reel_id > reels.reel_id
+Ref: reel_comments.user_id > users.user_id
+Ref: saved_reels.reel_id > reels.reel_id
+Ref: saved_reels.user_id > users.user_id
+Ref: stories.user_id > users.user_id
+Ref: refresh_tokens.user_id > users.user_id

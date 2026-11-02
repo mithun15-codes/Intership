@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Explore • Instagram</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <nav class="top-nav" id="top-nav"></nav>
+
+  <main class="page">
+    <div class="feed-container">
+      <div class="explore-search" style="position: relative;">
+        <div class="explore-search__icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        </div>
+        <input type="text" id="explore-search-input" class="explore-search__input" placeholder="Search by username or name" />
+        
+        <!-- Search Results Dropdown -->
+        <div id="explore-search-results" style="display: none; position: absolute; top: 100%; left: 0; right: 0; background: var(--bg-primary); border: 1px solid var(--border-color); border-radius: 8px; margin-top: 8px; max-height: 400px; overflow-y: auto; z-index: 1000; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+
+      <div class="explore-grid" id="explore-grid">
+        <!-- Grid items rendered by JS -->
+      </div>
+    </div>
+  </main>
+
+  <nav class="bottom-nav" id="bottom-nav"></nav>
+
+  <script src="js/data.js?v=13"></script>
+  <script src="js/app.js?v=13"></script>
+  <script src="js/explore.js?v=13"></script>
+</body>
+</html>

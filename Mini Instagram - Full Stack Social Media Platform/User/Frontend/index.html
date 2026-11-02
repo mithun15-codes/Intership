@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Instagram Clone – Sign in or create an account to connect with friends, share photos and videos." />
+  <title>Instagram – Login</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="auth-page" id="auth-page">
+    <div class="auth-container">
+      <!-- Login Box -->
+      <div class="auth-box" id="login-box">
+        <div class="auth-logo">
+          <div class="auth-logo-text">Instagram</div>
+        </div>
+
+        <form class="auth-form" id="login-form" autocomplete="off">
+          <div class="auth-input-wrapper">
+            <input type="text" id="login-email" placeholder=" " required />
+            <label for="login-email">Phone number, username, or email</label>
+          </div>
+          <div class="auth-input-wrapper">
+            <input type="password" id="login-password" placeholder=" " required minlength="8" />
+            <label for="login-password">Password</label>
+          </div>
+          <button type="submit" class="auth-btn" id="login-btn">Log In</button>
+          <div class="auth-error" id="login-error"></div>
+        </form>
+
+        <div class="auth-divider"><span>or</span></div>
+
+        <p style="color: var(--text-link); font-size: 0.85rem; cursor: pointer; margin-top: 8px;">Forgot password?</p>
+      </div>
+
+      <div class="auth-switch-box">
+        Don't have an account? <a id="show-register">Sign up</a>
+      </div>
+
+      <!-- Register Box (hidden by default) -->
+      <div class="auth-box" id="register-box" style="display: none;">
+        <div class="auth-logo">
+          <div class="auth-logo-text">Instagram</div>
+        </div>
+        <p class="auth-subtitle">Sign up to see photos and videos from your friends.</p>
+
+        <form class="auth-form" id="register-form" autocomplete="off">
+          <div class="auth-input-wrapper">
+            <input type="email" id="reg-email" placeholder=" " required />
+            <label for="reg-email">Email</label>
+          </div>
+          <div class="auth-input-wrapper">
+            <input type="text" id="reg-fullname" placeholder=" " required />
+            <label for="reg-fullname">Full Name</label>
+          </div>
+          <div class="auth-input-wrapper">
+            <input type="text" id="reg-username" placeholder=" " required />
+            <label for="reg-username">Username</label>
+          </div>
+          <div class="auth-input-wrapper">
+            <input type="tel" id="reg-phone" placeholder=" " />
+            <label for="reg-phone">Phone Number</label>
+          </div>
+          <div class="auth-input-wrapper">
+            <input type="date" id="reg-dob" placeholder=" " style="color-scheme: dark;" />
+            <label for="reg-dob" style="top: 10px; font-size: 0.65rem; transform: translateY(0);">Date of Birth</label>
+          </div>
+          <div class="auth-input-wrapper">
+            <input type="password" id="reg-password" placeholder=" " required minlength="8" />
+            <label for="reg-password">Password</label>
+          </div>
+          <button type="submit" class="auth-btn" id="register-btn">Sign Up</button>
+          <div class="auth-error" id="register-error"></div>
+        </form>
+
+        <p style="color: var(--text-tertiary); font-size: 0.75rem; margin-top: 12px; line-height: 1.5;">
+          By signing up, you agree to our <span style="color: var(--text-link); cursor: pointer;">Terms</span>,
+          <span style="color: var(--text-link); cursor: pointer;">Privacy Policy</span> and
+          <span style="color: var(--text-link); cursor: pointer;">Cookies Policy</span>.
+        </p>
+      </div>
+
+      <div class="auth-switch-box" id="register-switch-box" style="display: none;">
+        Have an account? <a id="show-login">Log in</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/data.js?v=13"></script>
+  <script src="js/auth.js?v=13"></script>
+</body>
+</html>

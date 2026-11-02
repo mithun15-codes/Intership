@@ -1,0 +1,426 @@
+[
+    {
+        "page": 9,
+        "text": "Figure",
+        "x": 90,
+        "y": 388,
+        "width": 28,
+        "height": 10
+    },
+    {
+        "page": 9,
+        "text": "4",
+        "x": 123,
+        "y": 389,
+        "width": 3,
+        "height": 6
+    },
+    {
+        "page": 9,
+        "text": "Results",
+        "x": 132,
+        "y": 388,
+        "width": 29,
+        "height": 7
+    },
+    {
+        "page": 9,
+        "text": "of",
+        "x": 165,
+        "y": 377,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "QuickDraw",
+        "x": 174,
+        "y": 388,
+        "width": 47,
+        "height": 9
+    },
+    {
+        "page": 9,
+        "text": "Figure",
+        "x": 90,
+        "y": 573,
+        "width": 28,
+        "height": 10
+    },
+    {
+        "page": 9,
+        "text": "5:",
+        "x": 121,
+        "y": 574,
+        "width": 8,
+        "height": 6
+    },
+    {
+        "page": 9,
+        "text": "Al",
+        "x": 132,
+        "y": 573,
+        "width": 8,
+        "height": 7
+    },
+    {
+        "page": 9,
+        "text": "tok",
+        "x": 144,
+        "y": 573,
+        "width": 19,
+        "height": 7
+    },
+    {
+        "page": 9,
+        "text": "+",
+        "x": 108,
+        "y": 615,
+        "width": 3,
+        "height": 3
+    },
+    {
+        "page": 9,
+        "text": "PictoBlox",
+        "x": 118,
+        "y": 601,
+        "width": 40,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "[2]",
+        "x": 161,
+        "y": 611,
+        "width": 16,
+        "height": 10
+    },
+    {
+        "page": 9,
+        "text": "has",
+        "x": 181,
+        "y": 601,
+        "width": 12,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "tools",
+        "x": 197,
+        "y": 601,
+        "width": 19,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "for",
+        "x": 220,
+        "y": 601,
+        "width": 13,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "Computer",
+        "x": 239,
+        "y": 601,
+        "width": 38,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "Vision,",
+        "x": 281,
+        "y": 601,
+        "width": 29,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "Face",
+        "x": 314,
+        "y": 601,
+        "width": 17,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "Recognition,",
+        "x": 337,
+        "y": 601,
+        "width": 51,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "Optical",
+        "x": 393,
+        "y": 601,
+        "width": 31,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "Character",
+        "x": 428,
+        "y": 601,
+        "width": 39,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "Recogai-",
+        "x": 472,
+        "y": 601,
+        "width": 41,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "tion,",
+        "x": 117,
+        "y": 627,
+        "width": 19,
+        "height": 8
+    },
+    {
+        "page": 9,
+        "text": "Language",
+        "x": 139,
+        "y": 626,
+        "width": 42,
+        "height": 10
+    },
+    {
+        "page": 9,
+        "text": "Recognition,",
+        "x": 184,
+        "y": 626,
+        "width": 55,
+        "height": 10
+    },
+    {
+        "page": 9,
+        "text": "Machine",
+        "x": 242,
+        "y": 625,
+        "width": 37,
+        "height": 8
+    },
+    {
+        "page": 9,
+        "text": "Learning,",
+        "x": 282,
+        "y": 626,
+        "width": 42,
+        "height": 10
+    },
+    {
+        "page": 9,
+        "text": "Ethics",
+        "x": 327,
+        "y": 625,
+        "width": 26,
+        "height": 8
+    },
+    {
+        "page": 9,
+        "text": "in",
+        "x": 357,
+        "y": 614,
+        "width": 8,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "AL,",
+        "x": 367,
+        "y": 626,
+        "width": 13,
+        "height": 9
+    },
+    {
+        "page": 9,
+        "text": "Internet",
+        "x": 383,
+        "y": 626,
+        "width": 35,
+        "height": 7
+    },
+    {
+        "page": 9,
+        "text": "of",
+        "x": 421,
+        "y": 625,
+        "width": 10,
+        "height": 8
+    },
+    {
+        "page": 9,
+        "text": "Things",
+        "x": 432,
+        "y": 625,
+        "width": 31,
+        "height": 11
+    },
+    {
+        "page": 9,
+        "text": "(figure",
+        "x": 466,
+        "y": 625,
+        "width": 28,
+        "height": 11
+    },
+    {
+        "page": 9,
+        "text": "6).",
+        "x": 497,
+        "y": 625,
+        "width": 8,
+        "height": 10
+    },
+    {
+        "page": 9,
+        "text": "+",
+        "x": 108,
+        "y": 644,
+        "width": 3,
+        "height": 3
+    },
+    {
+        "page": 9,
+        "text": "Teachable",
+        "x": 115,
+        "y": 629,
+        "width": 45,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "Machine",
+        "x": 166,
+        "y": 629,
+        "width": 32,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "-",
+        "x": 202,
+        "y": 645,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "page": 9,
+        "text": "a",
+        "x": 211,
+        "y": 643,
+        "width": 3,
+        "height": 5
+    },
+    {
+        "page": 9,
+        "text": "service",
+        "x": 216,
+        "y": 640,
+        "width": 87,
+        "height": 11
+    },
+    {
+        "page": 9,
+        "text": "from",
+        "x": 248,
+        "y": 629,
+        "width": 20,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "Google",
+        "x": 274,
+        "y": 640,
+        "width": 29,
+        "height": 11
+    },
+    {
+        "page": 9,
+        "text": "[24].",
+        "x": 306,
+        "y": 640,
+        "width": 16,
+        "height": 10
+    },
+    {
+        "page": 9,
+        "text": "Itcan",
+        "x": 328,
+        "y": 629,
+        "width": 21,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "recognize",
+        "x": 355,
+        "y": 629,
+        "width": 41,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "images,",
+        "x": 398,
+        "y": 629,
+        "width": 33,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "voice",
+        "x": 435,
+        "y": 629,
+        "width": 19,
+        "height": 28
+    },
+    {
+        "page": 9,
+        "text": "commands,",
+        "x": 458,
+        "y": 640,
+        "width": 49,
+        "height": 11
+    },
+    {
+        "page": 9,
+        "text": "human",
+        "x": 117,
+        "y": 653,
+        "width": 31,
+        "height": 8
+    },
+    {
+        "page": 9,
+        "text": "movements",
+        "x": 151,
+        "y": 654,
+        "width": 51,
+        "height": 7
+    },
+    {
+        "page": 9,
+        "text": "figure",
+        "x": 205,
+        "y": 653,
+        "width": 29,
+        "height": 11
+    },
+    {
+        "page": 9,
+        "text": "?).",
+        "x": 237,
+        "y": 653,
+        "width": 10,
+        "height": 10
+    }
+]
